@@ -14,6 +14,9 @@ IBM stencils / shapes can be of any of the following formats
 - Groups (previously referred to as boxes): they either represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, or deployedTo relationships, in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedOn` a zone and `deployedTo` a resource group.
 - Nodes: which are meant to represent standalone components or devices.
 - Actors: represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
+## Drawio
+
+<details><summary>click here to expand</summary>
 
 ### Stencil Index/Inventory
 
@@ -276,12 +279,32 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 </p>
 </details>
 
+</details>
+
+## PowerPoint(PPT)
+
+<details><summary>click here to expand</summary>
+
+CONTENT TO BE ADDED
+
+Link to [folder](/powerpoint) 
+
+</details>
+
+### Scalable Vector Graphics(SVGs)
+
+<details><summary>click here to expand</summary>
+
+CONTENT TO BE ADDED
+
+Link to [folder](/svg) 
+
+</details>
+
 ## Tutorials
 
 <details><summary>Draw.io Official Desktop Tool Video Tutorial</summary>
 <p>
-
-
 
 
 
