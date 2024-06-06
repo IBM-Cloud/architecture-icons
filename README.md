@@ -8,7 +8,7 @@ This is an internal repository oriented to IBMers, which can include special / p
 
 # Using IBM Cloud Stencils
 
-## Overview
+## Format & Layout
 
 IBM stencils / shapes can be of any of the following formats
 - Groups (previously referred to as boxes): they either represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, or deployedTo relationships, in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedOn` a zone and `deployedTo` a resource group.
