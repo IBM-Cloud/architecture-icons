@@ -1,0 +1,31 @@
+{
+  "name": "@jpmonge86/ibm_cloud_stencils_sem_release",
+  "private": true,
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-angular": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "semantic-release": "^21.0.5"
+  },
+  "scripts": {
+    "test": "echo \"No additional test specified\" && exit 0",
+    "commit": "npx git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "release": {
+    "branches": [
+      "master",
+      "main"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ibm.com/ibmcloud/ibm-cloud-stencils"
+  }
+}

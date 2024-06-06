@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group 72</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-359.000000, -1280.000000)">
+            <g id="Group-72" transform="translate(359.255656, 1280.749650)">
+                <rect id="Rectangle" fill="#38B0DE" fill-rule="nonzero" x="0" y="-1.10134124e-13" width="60" height="59.8899083"></rect>
+                <g id="Group" transform="translate(7.111111, 11.009174)">
+                    <g transform="translate(22.222222, 16.513761)" id="Path">
+                        <path d="M0.222222222,6.05504587 L21.9444444,6.05504587" stroke="#FFFFFF" stroke-width="4"></path>
+                        <polygon fill="#FFFFFF" fill-rule="nonzero" points="17.3888889 11.6697248 16.4444444 10.6238532 21.4444444 6.05504587 16.4444444 1.48623853 17.3888889 0.495412844 23.4444444 6.05504587"></polygon>
+                    </g>
+                    <g transform="translate(22.222222, 0.000000)" id="Path">
+                        <path d="M20.8888889,5.72477064 L0.333333333,5.72477064" stroke="#FFFFFF" stroke-width="4"></path>
+                        <polygon fill="#FFFFFF" fill-rule="nonzero" points="16.3333333 0.165137615 15.3888889 1.1559633 20.3333333 5.72477064 15.3888889 10.293578 16.3333333 11.3394495 22.3888889 5.72477064"></polygon>
+                    </g>
+                    <g transform="translate(0.000000, 26.422018)" id="Path">
+                        <path d="M1.61111111,5.66972477 L22.4444444,5.66972477" stroke="#FFFFFF" stroke-width="4"></path>
+                        <polygon fill="#FFFFFF" fill-rule="nonzero" points="6.16666667 11.2844037 7.11111111 10.293578 2.11111111 5.66972477 7.11111111 1.10091743 6.16666667 0.110091743 0.111111111 5.66972477"></polygon>
+                    </g>
+                    <g transform="translate(0.000000, 9.357798)" id="Path">
+                        <path d="M22.4444444,5.94495413 L1.61111111,5.94495413" stroke="#FFFFFF" stroke-width="4"></path>
+                        <polygon fill="#FFFFFF" fill-rule="nonzero" points="6.16666667 0.385321101 7.11111111 1.37614679 2.11111111 5.94495413 7.11111111 10.5688073 6.16666667 11.559633 0.111111111 5.94495413"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

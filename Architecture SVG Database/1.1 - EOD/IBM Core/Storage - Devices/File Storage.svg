@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-169.000000, -1770.000000)">
+            <g id="Group-2" transform="translate(169.333333, 1770.500300)">
+                <ellipse id="Oval" fill="#325C80" fill-rule="nonzero" cx="33.41975" cy="32.9912917" rx="33.0525" ry="32.9300833"></ellipse>
+                <g id="Group" transform="translate(10.405417, 7.957083)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="13.3480981 0.113119475 1.07463501 6.44781008 1.07463501 34.4448802 29.3545038 48.5282548 43.1550798 42.3066837 42.7026019 12.9521799"></polygon>
+                    <polyline id="Path" stroke="#325C80" points="29.3545038 48.5282548 29.3545038 19.4565497 42.7026019 12.9521799"></polyline>
+                    <path d="M29.3545038,19.4565497 L1.07463501,6.44781008" id="Path" stroke="#325C80"></path>
+                    <path d="M0,16.1195252 L29.5807427,30.3725791" id="Path" stroke="#325C80"></path>
+                    <path d="M29.750422,29.9766609 L44.1165953,22.1148574" id="Path" stroke="#325C80"></path>
+                    <path d="M29.750422,39.648376 L44.1165953,31.7300128" id="Path" stroke="#325C80"></path>
+                    <path d="M0,26.4133974 L29.5807427,40.6664513" id="Path" stroke="#325C80"></path>
+                    <path d="M7.06996719,29.9766609 L7.01340746,38.3475021" id="Path" stroke="#325C80"></path>
+                    <path d="M15.2145694,23.4722911 L15.2145694,33.5399244" id="Path" stroke="#325C80"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
