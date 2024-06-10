@@ -1,69 +1,63 @@
 # IBM Cloud Stencils
 
-Create IBM Cloud diagrams using Draw.io tool with IBM Cloud Architecture Stencils.  
-
-[add here STOP GAP comment about availability in drawio]
-
-If you are an IBM employee, go to the internal site here (link)
-
-# Using IBM Cloud Stencils
+NOTE: If you are an IBM employee, go to the internal site here (link)
 
 ## Overview
 
-IBM stencils / shapes can be of any of the following formats
-- Groups (previously referred to as boxes): they either represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, or deployedTo relationships, in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedOn` a zone and `deployedTo` a resource group.
-- Nodes: which are meant to represent standalone components or devices.
-- Actors: represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
+This repo is intended to provide IBM Cloud Architectural Icons for external customers and business partners.  IBM Cloud's approved design tool is Draw.io however we have also provided Powerpoint and .SVG files for your convinence.
+
+IBM is in the process of working with Draw.io to have these icons published as part of their native solution.  However until published this will be a source of access to the icons.
+
+
+
 ## Drawio
 
-<details><summary>click here to expand</summary>
+<details><summary>click here to expand<summary>
+<p>
 
-### Stencil Index/Inventory
+### Icon Inventory
 
-Based on categories listed in the [overview section](#overview) section, several xml files are provided with groups of stencils, however, for convenience, an All-In-One xml (`ibm_all_in_one.xml`) file containing all shapes across categories is also provided and kept up to date under [drawio/stencils/2.0](/drawio/stencils/2.0).
+This section is broken into several sections providing you options for downloading icons into your workstation. 
+
+* An xml file for each group are provided and broken out by group in the sidebar, once you download the Security icons there will be in a Security sidebar and so on for each group o
+<p>
+<p>Those sidebar folders can be downloded here:
+
+
+* All icons downloaded into one sidebar.  You can see all icons in one sidebar, no categories.
+
+
+[Click here to open](drawio/stencils/2.0/Index.tsv)
+  
+
+* A blank draw.io file which already has both the individual groups and an all-in-one sidebar, so no downloading of icons is necesary, 
+
+ (`ibm_all_in_one.xml`) file containing all shapes across categories is also provided and kept up to date under .
 
 [Click here to open](drawio/stencils/2.0/Index.tsv)
 
-### Getting drawio desktop application
+### Download drawio desktop application
 
-instructions/link to download desktop drawio 
+If you need the Draw.io desktop application you can donwload the latest version here: 
 https://github.com/jgraph/drawio-desktop/releases
 
 
-### Getting stencil libraries compatible withdraw.io application
-
-If you need to use shapes compatible/importable with/in desktop drawio application, a static version (same look and feel but no extended features of [build](#temporary--custom-build)) of the stencils has been made available under [drawio/stencils/2.0](/drawio/stencils/2.0) in this repository. To import the libraries follow the instructions in the [import guide](#importing-stencil-libraries-into-drawio) or watch the Draw.io Tool Video Tutorial in the [Tutorials section](#tutorials). Please keep in mind that when the libraries get updated (new, changed and deleted stencils) or new libraries get added/deleted, a [release](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/releases) will be published in the repo.
-
-[^1]: :information_source: **Important:** For diagrams to be hosted in governed content and/or public facing documents, repositories and sites, the [draw.io application](https://github.com/jgraph/drawio-desktop/releases) is the recommended approach.
-
-### Examples
-
-<details><summary>IBM Kubernetes Service in a Classic Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
-
-  ![](images/v2.0/Static/IKS_SR_MZ_Classic.svg)
-</details>
-<details><summary>IBM Red Hat OpenShift Service in a VPC Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
-
-  ![](images/v2.0/Static/ROKS_SR_MZ_VPC.svg)
-</details>
-<details><summary>IBM Red Hat OpenShift Service in a Classic Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
-
-  ![](images/v2.0/Static/ROKS_SR_MZ_Classic.svg)
-</details>
 
 ### Templates
 
-Find latest templates in [drawio/templates/v2.0](/drawio/templates/v2.0).
-If using beta2 build (`vXXYY-ibm2beta2`), check out also the "IBM Starters" library to access common pre-built layouts that can be useful as starting points for diagrams.
+We have provided a few completed templates that may be helpful in getting your architecture stated. Find latest templates in [drawio/templates/v2.0](/drawio/templates/v2.0).
 
-## Importing Stencil Libraries into Draw.io [^3]
+### Importing Stencil Libraries into Draw.io 
 
-This section provides instructions on how to import stencils published in this repository (available in this path [drawio/stencils/](/drawio/stencils)) into draw.io desktop application.
-Stencils/icons are added and grouped using libraries, the libraries can contain one or several stencils, these are saved and generated in XML format (.xml). To use these these custom libraries, they first must be imported in order to make them available in the draw.io utility. Remember that only desktop drawio application (as opposed to the [online counterpart](https://app.diagrams.net/))is authorized for IBM internal diagrams.
+This section provides instructions on how to import stencils published in this repository (available in this path [drawio/stencils/](/drawio/stencils)) into draw.io desktop application.<p>
 
-[^3]: :warning: Please note that an All-In-One (`ibm_all_in_one.xml`) file containing all stencils/shapes is now provided for v2.0 in this directory [drawio/stencils/2.0](/drawio/stencils/2.0).
+Stencils/icons are saved and generated in XML format (.xml). To use these custom libraries, they first must be imported to your workstation in order to make them available in the draw.io utility. 
+
+<p>Remeinder these are LIBRARIES, when importing into Draw.io import LIBRARIES and not FILES.
+ 
 
 ### Import Guides
+Here are the instructions on how to download the .xml library files into your workstation.
 
 <details><summary>Import using Github Clone (Recommended)</summary>
 <p>
@@ -285,7 +279,7 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 
 <details><summary>click here to expand</summary>
 
-CONTENT TO BE ADDED
+This kit is built using the IBM presentation template, and is meant for creating IT architecture diagrams using the SDS metamodel, but it can be used as a starting point for other types of technical diagrams
 
 Link to [folder](/powerpoint) 
 
@@ -295,7 +289,7 @@ Link to [folder](/powerpoint)
 
 <details><summary>click here to expand</summary>
 
-CONTENT TO BE ADDED
+.svg icons have been added for use with other design tools:
 
 Link to [folder](/svg) 
 
@@ -321,49 +315,32 @@ https://media.github.ibm.com/user/94907/files/154fd6d3-573a-4c14-a7ba-25ff57c3c8
 ## Tools & Conventions
 
 
-<details><summary>Metadata header</summary>
+<details><Summary> Design guidelines</summary>
 <p>
 
-As outlined in [section](#v20), diagrams in 2.0 version are created in the official/native desktop drawio application. To help users and teams consuming diagrams, it is highly recommended to include the metadata header/page to indicate the version/release of stencils used and ensure proper software/tooling is selected/downloaded when further editing is needed. The header will also help keep track of updates in the diagram.
-
-Below you will find an example when using static:
-
-![](images/Metadata.png)
-
-The recommended options/combinations for the interesting fields are:
-
-### If using [desktop drawio](#compatible-with-official-drawio-application-1)
-| File Format | Stencils Source/Version|
-|-|-|
-| `Desktop drawio` | `Static 2.0 Libraries / vXY` |
 
 
-### If using [custom build](#temporary--custom-build-2)
+IBM stencils / shapes can be of any of the following formats
+- Groups either represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, or deployedTo relationships, in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedOn` a zone and `deployedTo` a resource group.
 
-| File Format | Stencils Source/Version|
-|-|-|
-| `Build` | `vXY` |
+- Nodes: which are meant to represent standalone components or devices.
 
-
-When using build, `vXY` ideally would indicate pre-release version that used. For example [v30.2.56](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/releases/tag/v30.2.56-ibm2beta2), if using desktop drawio, vXY would indicate [release/tag number](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/releases), for example [v1.5.0](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/releases/tag/v1.5.0).
-
-Templates with the above metadata table are available as follows:
-- `Metadata.xml`: for using in new/existing diagrams created in both desktop drawio and build. Available in [drawio/templates/v2.0](/drawio/templates/v2.0)
-- `Metadata build template.drawio`: for using in new diagrams created in build. Available under [drawio/templates/v2.0/Using Build](/drawio/templates/v2.0/Using%20Build)
-- `Metadata static template.drawio`: for using in new diagrams created in desktop drawio. Available under [drawio/templates/v2.0/Using Static - compatible with drawio tool](/drawio/templates/v2.0/Using%20Static%20-%20compatible%20with%20drawio%20tool)
- 
-</p>
-</details>
-
-
-<details><summary>Colors</summary>
+- Actors: represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above
 <p>
+Examples
 
-![](images/Colors.svg)
+<details><summary>IBM Kubernetes Service in a Classic Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
 
-</p>
+  ![](images/v2.0/Static/IKS_SR_MZ_Classic.svg)
 </details>
+<details><summary>IBM Red Hat OpenShift Service in a VPC Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
 
+  ![](images/v2.0/Static/ROKS_SR_MZ_VPC.svg)
+</details>
+<details><summary>IBM Red Hat OpenShift Service in a Classic Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
+
+  ![](images/v2.0/Static/ROKS_SR_MZ_Classic.svg)
+</details>
 <details><summary>Connectors</summary>
 <p>
 
