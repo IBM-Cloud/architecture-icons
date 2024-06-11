@@ -1,71 +1,57 @@
 # IBM Cloud Stencils
 
-NOTE: If you are an IBM employee, go to the internal site here (link)
+NOTE: If you are an IBM employee, please go to the [internal repo](https://github.ibm.com/ibmcloud/ibm-cloud-stencils)
 
-## Overview
+Create IBM Cloud diagrams using Draw.io tool with IBM Cloud Architecture Stencils.  
 
-This repo is intended to provide IBM Cloud Architectural Icons for external customers and business partners.  IBM Cloud's approved design tool is Draw.io however we have also provided Powerpoint and .SVG files for your convinence.
+This repo is intended to provide IBM Cloud Architecture icons for external customers and business partners.  IBM Cloud's approved design tool is Draw.io, however we have also provided Powerpoint (.ppt) and SVG (.svg) files for your convenience.
 
-IBM is in the process of working with Draw.io to have these icons published as part of their native solution.  However until published this will be a source of access to the icons.
-
-
+IBM is currently working with Draw.io to have these icons published as part of their native solution.  However until that happens, this repository will be an interim source to obtain the icons.
 
 ## Drawio
 
-<details><summary>click here to expand<summary>
-<p>
+<details><summary>click here to expand</summary>
 
-### Icon Inventory
-
-This section is broken into several sections providing you options for downloading icons into your workstation. 
-
-* These xml library file are broken out by group in the sidebar, once you download them each group will show up in the Draw.io sidebar.
-<p>
-<p>[Click here to open]
+### Getting drawio desktop application
 
 
-* This section all existing icons will be downloaded into one sidebar, so there will be no sidebar categories.
+Go the [jgraph drawio repo site](https://github.com/jgraph/drawio-desktop/releases) to download the latest desktop draw.io application.
 
 
-[Click here to open](drawio/stencils/2.0/Index.tsv)
-  
+#### Stencil Index/Inventory
 
-* This section is a blank draw.io file which already has both the individual groups and an all-in-one sidebar, includedm no downloading of icons is necesary.
-
+Based on categories listed in the [overview section](#overview) section, several xml files are provided with groups of stencils, however, for convenience, an All-In-One xml (`ibm_all_in_one.xml`) file containing all shapes across categories is also provided and kept up to date under [drawio/stencils/2.0](/drawio/stencils/2.0).
 
 [Click here to open](drawio/stencils/2.0/Index.tsv)
 
-### Download drawio desktop application
 
-If you need the Draw.io desktop application you can donwload the latest version here: 
-https://github.com/jgraph/drawio-desktop/releases
+### Getting stencil libraries compatible with draw.io application
+
+If you need to use 2.0 shapes compatible/importable with/in desktop drawio application, a static version of the stencils has been made available under [drawio/stencils/2.0](/drawio/stencils/2.0) in this repository. To import the libraries (.xmls), follow the instructions in the [import guide below](#import-guide). Please keep in mind that when the libraries get updated (new, changed and deleted stencils) or new libraries get added/deleted, a [release](https://github.com/IBM-Cloud/architecture-icons/releases) will be published in the repo.
 
 
+#### Import Guide
 
-### Templates
+<details><summary> Importing Stencil Libraries into Draw.io desktop tool</summary>
+<p>
 
- Provided are a few completed templates that may be helpful in getting your architecture stated. 
- 
- Download Templates here [drawio/templates/v2.0](/drawio/templates/v2.0).
+This section provides instructions on how to import stencils published in this repository (available in this path [drawio/stencils/2.0](/drawio/stencils/2.0)) into draw.io desktop application.
+Stencils/icons are added and grouped using libraries, the libraries can contain one or several stencils, these are saved and generated in XML format (.xml). To use these these custom libraries, they first must be imported in order to make them available in the draw.io utility/tool.
 
-### Importing Stencil Libraries into Draw.io 
+[^3]: :warning: Please note that the following All-in-one options have been made available:
 
-This section provides instructions on how to import stencils published in this repository (available in this path [drawio/stencils/](/drawio/stencils)) into draw.io desktop application.<p>
+- All-in-one (`ibm_all_in_one.xml`) importable file containing all stencils/shapes is now provided for v2.0 in this directory [drawio/stencils/2.0/ibm_all_in_one.xml](/drawio/stencils/2.0/ibm_all_in_one.xml).
 
-Stencils/icons are saved and generated in XML format (.xml). To use these custom libraries, they first must be imported to your workstation in order to make them available in the draw.io utility. 
-
-<p>Remeinder these are .xml libraries so "Open Library" when importing into Draw.io.
- 
+- If getting started with draw.io, All-in-one (`v2.0.0-all-in-one-stencils.drawio`) double-clickable file containing all stencils/shapes is now provided for v2.0 in this directory [drawio/stencils/2.0/v2.0.0-all-in-one-stencils.drawio](/drawio/stencils/2.0/v2.0.0-all-in-one-stencils.drawio)
 
 ### Import Guides
-Here are the instructions on how to download the .xml library files into your workstation.
 
 <details><summary>Import using Github Clone (Recommended)</summary>
 <p>
 
 ### Prerequistes
 
-- A [GitHub.ibm.com enterprise active account](https://github.ibm.com/).
+- A [GitHub.com active account](https://github.com/).
 - Git [CLI](https://gist.github.com/derhuerst/1b15ff4652a867391f03) or [GitHub Desktop](https://desktop.github.com/).
 - An [SSH Key associated](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) to the github.com account if using CLI.
  
@@ -74,7 +60,7 @@ Here are the instructions on how to download the .xml library files into your wo
 <details><summary>Click here to expand</summary>
 
 - Sign into [github.ibm.com](https://github.ibm.com).
-- In the main [page](https://github.ibm.com/ibmcloud/ibm-cloud-stencils), click the **Clone or download** button, select on **Open in Desktop**, wait for the prompt and select/confirm launching the link using GitHub Desktop application. Confirm directory where repository will be cloned:
+- In the main [page](https://github.com/IBM-Cloud/architecture-icons), click the **Clone or download** button, select on **Open in Desktop**, wait for the prompt and select/confirm launching the link using GitHub Desktop application. Confirm directory where repository will be cloned:
 
   ![](images/CloningUsingGHD.png)
 
@@ -113,8 +99,8 @@ Here are the instructions on how to download the .xml library files into your wo
 
 <details><summary>Click here to expand</summary>
 
-- Sign into [github.ibm.com](https://github.ibm.com).
-- While in the main [page](https://github.ibm.com/ibmcloud/ibm-cloud-stencils), click the **Clone or download** button, select on **Use SSH** if not already selected (**Use HTTPS** will be displayed) and then copy the link using the copy symbol:
+- Sign into [github.com](https://github.com).
+- While in the main [page](https://github.com/IBM-Cloud/architecture-icons), click the **Clone or download** button, select on **Use SSH** if not already selected (**Use HTTPS** will be displayed) and then copy the link using the copy symbol:
 
   ![](images/UseSSH.png)
 
@@ -152,7 +138,7 @@ Here are the instructions on how to download the .xml library files into your wo
 
   - Go to `Extras`, then click `Configuration`
   - Hit `Preferences`
-  - Edit the `customLibraries` block section to include the path to all the    XML files, see [default OS configurations](#default-configurations) below
+  - Edit the `customLibraries` block section to include the path to all the    XML files, see default OS configurations below
   - click `Apply` and restart to refresh the changes.
   - Confirm library or libraries are visible in the left panel
      ![](images/ImportedLibraries.png)
@@ -247,10 +233,11 @@ Here are the instructions on how to download the .xml library files into your wo
 
 </p>
 </details>
+
 <details><summary>Import using Download Zip</summary>
 <p>
 
-- To download all contents of the repository, navigate to the main [page](README.md), click the **Clone or download** button and then select **Download ZIP**.
+- To download all contents of the repository, navigate to the main [page](README.md), click the **Clone or download** button and then select **Download ZIP**. Alternatively, if downloading a specific version/release, go the [releases page](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/releases), select the one needed and hit the `source code (zip)` button.
 
 - Go to your downloads directory and extract the ZIP file contents and access the folder called **drawio**, it should be located in the following path:
 
@@ -273,62 +260,15 @@ Here are the instructions on how to download the .xml library files into your wo
   If you run into issues, please use Github Clone approach (below)
 </p>
 </details>
-
-</details>
-
-## PowerPoint(PPT)
-
-<details><summary>click here to expand</summary>
-
-This kit is built using the IBM presentation template, and is meant for creating IT architecture diagrams using the SDS metamodel, but it can be used as a starting point for other types of technical diagrams
-
-Link to [folder](/powerpoint) 
-
-</details>
-
-### Scalable Vector Graphics(SVGs)
-
-<details><summary>click here to expand</summary>
-
-.svg icons have been added for use with other design tools:
-
-Link to [folder](/svg) 
-
-</details>
-
-## Tutorials
-
-<details><summary>Draw.io Official Desktop Tool Video Tutorial</summary>
-<p>
-
-
-
-https://media.github.ibm.com/user/94907/files/154fd6d3-573a-4c14-a7ba-25ff57c3c821
-
-
-
-
  
 </p>
 </details>
 
 
-## Tools & Conventions
+### v2.0 Examples
 
-
-<details><Summary> Design guidelines</summary>
-<p>
-
-
-
-IBM stencils / shapes can be of any of the following formats
-- Groups either represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, or deployedTo relationships, in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedOn` a zone and `deployedTo` a resource group.
-
-- Nodes: which are meant to represent standalone components or devices.
-
-- Actors: represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above
-<p>
-Examples
+> **Important**
+To be updated to 24pt size
 
 <details><summary>IBM Kubernetes Service in a Classic Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
 
@@ -342,17 +282,73 @@ Examples
 
   ![](images/v2.0/Static/ROKS_SR_MZ_Classic.svg)
 </details>
+
+### v2.0 Templates
+
+> **Important**
+To be updated to 24pt size
+
+Find latest templates in [drawio/templates/v2.0](/drawio/templates/v2.0).
+If using beta2 build (`vXXYY-ibm2beta2`), check out also the "IBM Starters" library to access common pre-built layouts that can be useful as starting points for diagrams.
+
+</details>
+
+## PowerPoint(PPT)
+
+<details><summary>click here to expand</summary>
+
+> **Important**
+To be updated soon
+
+Link to [folder](/powerpoint) 
+
+</details>
+
+### Scalable Vector Graphics(SVGs)
+
+<details><summary>click here to expand</summary>
+
+> **Important**
+To be updated soon
+
+Link to [folder](/svg) 
+
+</details>
+
+## Tools & Conventions
+
+
+<details><summary>Format & Layout</summary>
+<p>
+
+IBM stencils / shapes can be of any of the following formats
+- Groups (previously referred to as boxes): they either represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, or deployedTo relationships, in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedOn` a zone and `deployedTo` a resource group.
+- Nodes: are meant to represent standalone components or devices.
+- Actors: represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
+
+</p>
+</details>
+
+
+
+<details><summary>Colors</summary>
+<p>
+
+![](images/Colors.png)
+
+</p>
+</details>
+
 <details><summary>Connectors</summary>
 <p>
 
   ![](images/Connectors.svg)
   
-Please see the [Connectors file](/drawio/Connectors.drawio) with draw.io format version of the picture above or import the [IBM Connectors xml library](/drawio/stencils/ibm_connectors.xml).
+Please see the [Connectors file](/drawio/stencils/Connectors.drawio) with draw.io format version of the picture above or import the [IBM Connectors xml library](/drawio/stencils/ibm_connectors.xml).
 
 </p>
 </details>
 
 ## Help & Support
 
-For additional help and support on how to use stencils and drawio, start a thread in the [#ibm-cloud-stencils](https://ibm-cloudplatform.slack.com/archives/C010ARBDZ9R) slack channel and if necessary open an [issue](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/issues).
-
+For additional help and support on how to use stencils and drawio, please open an [issue](https://github.com/IBM-Cloud/architecture-icons/issues).
