@@ -300,7 +300,7 @@ If using beta2 build (`vXXYY-ibm2beta2`), check out also the "IBM Starters" libr
 > **Important**
 To be updated soon
 
-Link to [folder](/powerpoint) 
+Link to [folder](/ppt) 
 
 </details>
 
