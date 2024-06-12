@@ -289,7 +289,6 @@ To be updated to 24pt size
 To be updated to 24pt size
 
 Find latest templates in [drawio/templates/v2.0](/drawio/templates/v2.0).
-If using beta2 build (`vXXYY-ibm2beta2`), check out also the "IBM Starters" library to access common pre-built layouts that can be useful as starting points for diagrams.
 
 </details>
 
