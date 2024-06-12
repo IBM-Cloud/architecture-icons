@@ -8,7 +8,7 @@ This repo is intended to provide IBM Cloud Architecture icons for external custo
 
 IBM is currently working with Draw.io to have these icons published as part of their native solution.  However until that happens, this repository will be an interim source to obtain the icons.
 
-## Drawio
+## Drawio (xml & drawio)
 
 <details><summary>click here to expand</summary>
 
@@ -293,7 +293,7 @@ If using beta2 build (`vXXYY-ibm2beta2`), check out also the "IBM Starters" libr
 
 </details>
 
-## PowerPoint(PPT)
+## PowerPoint(ppt)
 
 <details><summary>click here to expand</summary>
 
@@ -304,7 +304,7 @@ Link to [folder](/ppt)
 
 </details>
 
-### Scalable Vector Graphics(SVGs)
+### Scalable Vector Graphics(svg)
 
 <details><summary>click here to expand</summary>
 
