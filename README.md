@@ -293,7 +293,7 @@ If using beta2 build (`vXXYY-ibm2beta2`), check out also the "IBM Starters" libr
 
 </details>
 
-## PowerPoint(ppt)
+## PowerPoint (ppt)
 
 <details><summary>click here to expand</summary>
 
@@ -304,7 +304,7 @@ Link to [folder](/ppt)
 
 </details>
 
-### Scalable Vector Graphics(svg)
+### Scalable Vector Graphics (svg)
 
 <details><summary>click here to expand</summary>
 
