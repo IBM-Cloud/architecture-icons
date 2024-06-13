@@ -321,9 +321,10 @@ Link to [folder](/svg)
 <p>
 
 IBM stencils / shapes can be of any of the following formats
-- Groups (previously referred to as boxes): they either represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, or deployedTo relationships, in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedOn` a zone and `deployedTo` a resource group.
-- Nodes: are meant to represent standalone components or devices.
-- Actors: represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
+- Groups (container groups with solid border): represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.  For example, a virtual server instance is `deployedOn` a subnet.
+- Zones (non-container groups with dashed border): represent a deployedTo relationship in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedTo` a resource group.
+- Nodes (square shapes): are meant to represent standalone components or devices.
+- Actors (round shapes): represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
 
 </p>
 </details>
@@ -334,6 +335,10 @@ IBM stencils / shapes can be of any of the following formats
 <p>
 
 ![](images/Colors.png)
+
+Color codes for the above colors correspond to the following primary color codes.  Fill colors are either white or the light color from the same color family as the correspnding primary color.  For example, Cyan 50 is the primary color for Network and the corresponding fill color for a network group must be either white or Cyan 10 for accessibility. 
+
+![](images/ColorCodes.png)
 
 </p>
 </details>
