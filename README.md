@@ -321,10 +321,15 @@ Link to [folder](/svg)
 <p>
 
 IBM stencils / shapes can be of any of the following formats
-- Groups (container groups with solid border): represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.  For example, a virtual server instance is `deployedOn` a subnet.
-- Zones (non-container groups with dashed border): represent a deployedTo relationship in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedTo` a resource group.
+- Groups (container groups with solid border): represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.  For example, a virtual server instance is `deployedOn` a subnet (refer to example below).
+- Zones (non-container groups with dashed border): represent a deployedTo relationship in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedTo` a security group (refer to example below).
 - Nodes (square shapes): are meant to represent standalone components or devices.
 - Actors (round shapes): represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
+
+This example shows the App VSI deployedTo App Subnet and App VSI deployedOn both the Maint SG and App SG. 
+![](images/DeployedTo.png)
+
+Note that using a container group for security group would be ambiguous as to whether the App VSI is in the subnet or a security group for purposes of moving around groups.  Therefore, a non-container group (Zone shape) is used for security group so that the App VSI is only in the subnet.  Instead of a mouse click to get inside a non-container group the alt-click (option-click on Mac) is used.
 
 </p>
 </details>
@@ -336,7 +341,7 @@ IBM stencils / shapes can be of any of the following formats
 
 ![](images/Colors.png)
 
-Color codes for the above colors correspond to the following primary color codes.  Fill colors are either white or the light color from the same color family as the correspnding primary color.  For example, Cyan 50 is the primary color for Network and the corresponding fill color for a network group must be either white or Cyan 10 for accessibility. 
+Color codes for the above colors correspond to the following primary color codes.  Fill colors are either white or the light color from the same color family as the correspnding primary color.  For example, Cyan 50 is the primary color for Network and the corresponding fill color for a network group is either white or Cyan 10 for accessibility. 
 
 ![](images/ColorCodes.png)
 
