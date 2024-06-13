@@ -343,7 +343,11 @@ Instead of a mouse click to get inside of a non-container group the alt-click (o
 
 ![](images/Colors.png)
 
-Codes for the above colors correspond to the following primary color codes.  Fill colors are either white or the light color from the same color family as the corresponding primary color.  For example, Cyan 50 is the primary color for Network and the corresponding fill color for a network group is either white or Cyan 10 for accessibility. 
+Codes for the above colors correspond to the following primary color codes.  
+
+Fill colors are either white or the light color from the same color family as the corresponding primary color.  For example, Cyan 50 is the primary color for Network and the corresponding fill color for a network group is either white or Cyan 10 for accessibility. 
+
+Nested container groups should alternate between white and light fill for accessibility.
 
 ![](images/ColorCodes.png)
 
