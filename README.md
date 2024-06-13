@@ -6,7 +6,7 @@ Create IBM Cloud diagrams using Draw.io tool with IBM Cloud Architecture Stencil
 
 This repo is intended to provide IBM Cloud Architecture icons for external customers and business partners.  IBM Cloud's approved design tool is Draw.io, however we have also provided Powerpoint (.ppt) and SVG (.svg) files for your convenience.
 
-IBM is currently working with Draw.io to have these icons published as part of their native solution.  However until that happens, this repository will be an interim source to obtain the icons.
+This repository is an interim source to obtain the icons.
 
 ## Drawio (xml & drawio)
 
@@ -15,7 +15,7 @@ IBM is currently working with Draw.io to have these icons published as part of t
 ### Getting drawio desktop application
 
 
-Go the [jgraph drawio repo site](https://github.com/jgraph/drawio-desktop/releases) to download the latest desktop draw.io application.
+Go to the [jgraph drawio repo site](https://github.com/jgraph/drawio-desktop/releases) to download the latest desktop draw.io application.
 
 
 #### Stencil Index/Inventory
@@ -329,7 +329,7 @@ IBM stencils / shapes can be of any of the following formats
 This example shows the App VSI deployedTo App Subnet and App VSI deployedOn both the Maint SG and App SG. 
 ![](images/DeployedTo.png)
 
-Note that using a container group for security group would be ambiguous as to whether the App VSI is in the subnet or a security group for purposes of moving around groups.  Therefore, a non-container group (Zone shape) is used for security group so that the App VSI is only in the subnet.  Instead of a mouse click to get inside a non-container group the alt-click (option-click on Mac) is used.
+Note that using a non-container group for security group prevents ambiguities as to whether the App VSI is physically in the subnet or a security group if the security group were a container group, however since the security group is a non-container group the App VSI only physically in the subnet on the diagram.  Instead of a mouse click to get inside of a non-container group the alt-click (option-click on Mac) is used.
 
 </p>
 </details>
@@ -341,7 +341,7 @@ Note that using a container group for security group would be ambiguous as to wh
 
 ![](images/Colors.png)
 
-Color codes for the above colors correspond to the following primary color codes.  Fill colors are either white or the light color from the same color family as the correspnding primary color.  For example, Cyan 50 is the primary color for Network and the corresponding fill color for a network group is either white or Cyan 10 for accessibility. 
+Codes for the above colors correspond to the following primary color codes.  Fill colors are either white or the light color from the same color family as the corresponding primary color.  For example, Cyan 50 is the primary color for Network and the corresponding fill color for a network group is either white or Cyan 10 for accessibility. 
 
 ![](images/ColorCodes.png)
 
