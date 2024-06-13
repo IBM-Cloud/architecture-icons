@@ -322,7 +322,7 @@ Link to [folder](/svg)
 
 IBM stencils / shapes can be of any of the following formats
 - Groups (container groups with solid border): represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.  For example, a virtual server instance is `deployedOn` a subnet (refer to example below).
-- Zones (non-container groups with dashed border): represent a deployedTo relationship in which one application, service or component is deployed on top of another. For example, a virtual server instance is `deployedTo` a security group (refer to example below).
+- Zones (non-container groups with dashed border): represent a deployedTo relationship in which one application, service or component is deployed to another. For example, a virtual server instance is `deployedTo` a security group (refer to example below).
 - Nodes (square shapes): are meant to represent standalone components or devices.
 - Actors (round shapes): represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
 
