@@ -331,7 +331,7 @@ This example shows the App VSI deployedTo App Subnet and App VSI deployedOn both
 
 Using a non-container group for security group prevents ambiguities as to whether the App VSI is physically in the subnet or a security group if the security group were a container group, however since the security group is a non-container group the App VSI is only physically in the subnet on the diagram.  
 
-Instead of a mouse click to get inside of a non-container group the alt-click (option-click on Mac) is used.
+Use alt-click (option-click on Mac) to click inside of a non-container group.
 
 </p>
 </details>
