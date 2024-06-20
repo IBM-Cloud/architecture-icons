@@ -20,7 +20,7 @@ Go to the [jgraph drawio repo site](https://github.com/jgraph/drawio-desktop/rel
 
 #### Stencil Index/Inventory
 
-Based on categories listed in the [overview section](#overview) section, several xml files are provided with groups of stencils, however, for convenience, an All-In-One xml (`ibm_all_in_one.xml`) file containing all shapes across categories is also provided and kept up to date under [drawio/stencils/2.0](/drawio/stencils/2.0).
+Several xml files are provided with groups of stencils, however, for convenience, an All-In-One xml (`ibm_all_in_one.xml`) file containing all shapes across categories is also provided and kept up to date under [drawio/stencils/2.0](/drawio/stencils/2.0).
 
 [Click here to open](drawio/stencils/2.0/Index.tsv)
 
@@ -296,7 +296,14 @@ Find latest templates in [drawio/templates/v2.0](/drawio/templates/v2.0).
 
 <details><summary>click here to expand</summary>
 
-Please find the `IBM_IT Architecture diagrams kit_External` file under [ppt](./ppt/) folder
+### Getting ppt instructions file and icons
+
+Please find the `IBM_IT Architecture diagrams kit_External` file under [ppt](./ppt/) folder. For video tutorial with demo see []()
+
+
+### Creating icons in ppt
+
+
 
 </details>
 
