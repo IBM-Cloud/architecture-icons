@@ -305,8 +305,8 @@ Please find the `IBM_IT Architecture diagrams kit_External` file under [ppt](./p
 
 
 
-https://github.com/IBM-Cloud/architecture-icons/assets/51208928/8a63be18-846f-4d2a-94ef-b25aac08b0b5
 
+https://github.com/IBM-Cloud/architecture-icons/assets/51208928/94b6be7a-b9d4-4979-bda5-5a8f05e27e2f
 
 
 
