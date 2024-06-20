@@ -1,10 +1,4 @@
 Stencil Name	Alternate Name	Stencil Ocurrence	Stencil Library Name	Stencil Library Display Name	Library Stencil Count
-BigFix		1	3rd_party_products.xml	3rd Party Products	6
-Docker		1	3rd_party_products.xml	3rd Party Products	6
-Github	Github Enterprise	1	3rd_party_products.xml	3rd Party Products	6
-NIST		1	3rd_party_products.xml	3rd Party Products	6
-QRadar		1	3rd_party_products.xml	3rd Party Products	6
-Thycotic	Secret	1	3rd_party_products.xml	3rd Party Products	6
 Administrator		1	ibm_cloud_actors.xml	IBM / Cloud Actors	22
 API		1	ibm_cloud_actors.xml	IBM / Cloud Actors	22
 Application		1	ibm_cloud_actors.xml	IBM / Cloud Actors	22

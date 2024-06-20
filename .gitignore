@@ -6,3 +6,7 @@ drawio/templates/v2.0/Using Build/compatible with version 16.5.X and higher : Be
 drawio/templates/v2.0/Using Static - compatible with drawio tool/.DS_Store
 drawio/stencils/.DS_Store
 images/v2.0/.DS_Store
+.DS_Store
+drawio/.DS_Store
+drawio/stencils/.DS_Store
+images/v2.0/.DS_Store

@@ -296,10 +296,7 @@ Find latest templates in [drawio/templates/v2.0](/drawio/templates/v2.0).
 
 <details><summary>click here to expand</summary>
 
-> **Important**
-To be updated soon
-
-Link to [folder](/ppt) 
+Please find the `IBM_IT Architecture diagrams kit_External` file under [ppt](./ppt/) folder
 
 </details>
 
