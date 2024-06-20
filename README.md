@@ -298,7 +298,7 @@ Find latest templates in [drawio/templates/v2.0](/drawio/templates/v2.0).
 
 ### Getting ppt instructions file and icons
 
-Please find the `IBM_IT Architecture diagrams kit_External` file under [ppt](./ppt/) folder. For video tutorial with demo see []()
+Please find the `IBM_IT Architecture diagrams kit_External` file under [ppt](./ppt/) folder. For video tutorial with demo see [video tutorial](#creating-icons-in-ppt) below.
 
 
 ### Creating icons in ppt
