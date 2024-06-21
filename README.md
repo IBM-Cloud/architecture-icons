@@ -42,7 +42,7 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 
 - All-in-one (`ibm_all_in_one.xml`) importable file containing all stencils/shapes is now provided for v2.0 in this directory [drawio/stencils/2.0/ibm_all_in_one.xml](/drawio/stencils/2.0/ibm_all_in_one.xml).
 
-- If getting started with draw.io, All-in-one (`v2.0.0-all-in-one-stencils.drawio`) double-clickable file containing all stencils/shapes is now provided for v2.0 in this directory [drawio/stencils/2.0/v2.0.0-all-in-one-stencils.drawio](/drawio/stencils/2.0/v2.0.0-all-in-one-stencils.drawio)
+- If getting started with draw.io, All-in-one (`v1.0.0-all-in-one-stencils.drawio`) double-clickable file containing all stencils/shapes is now provided for v2.0 in this directory [drawio/stencils/2.0/v1.0.0-all-in-one-stencils.drawio](/drawio/stencils/2.0/v1.0.0-all-in-one-stencils.drawio)
 
 ### Import Guides
 
@@ -267,20 +267,17 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 
 ### v2.0 Examples
 
-> **Important**
-To be updated to 24pt size
-
 <details><summary>IBM Kubernetes Service in a Classic Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
 
-  ![](images/v2.0/Static/IKS_SR_MZ_Classic.svg)
+  ![](images/v2.0/Static/iks_sr_mz_classic.svg)
 </details>
-<details><summary>IBM Red Hat OpenShift Service in a VPC Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
+<details><summary>IBM Kubernetes Service in a VPC Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
 
-  ![](images/v2.0/Static/ROKS_SR_MZ_VPC.svg)
+  ![](images/v2.0/Static/iks_sr_mz_vpc.svg)
 </details>
 <details><summary>IBM Red Hat OpenShift Service in a Classic Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
 
-  ![](images/v2.0/Static/ROKS_SR_MZ_Classic.svg)
+  ![](images/v2.0/Static/roks_sr_mz_classic.svg)
 </details>
 
 ### v2.0 Templates
