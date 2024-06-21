@@ -329,18 +329,18 @@ Link to [folder](/svg)
 <details><summary>Format & Layout</summary>
 <p>
 
-IBM stencils / shapes can be of any of the following formats
-- Groups (container groups with solid border): represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.  For example, a virtual server instance is `deployedOn` a subnet (refer to example below).
-- Zones (non-container groups with dashed border): represent a deployedTo relationship in which one application, service or component is deployed to another. For example, a virtual server instance is `deployedTo` a security group (refer to example below).
-- Nodes (square shapes): are meant to represent standalone components or devices.
-- Actors (round shapes): represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
+IBM stencils / shapes can be of any of the following formats:
+- Groups (container group with solid border and single sidebar + icon in upper left corner): represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.  For example, a virtual server instance is `deployedOn` a subnet (refer to example below).
+- Zones (non-container group with dashed border and icon in upper left corner): represent a deployedTo relationship in which one application, service or component is deployed to another. For example, a virtual server instance is `deployedTo` a security group (refer to example below).
+- Nodes (square shape with icon): are meant to represent standalone components or devices.
+- Actors (round shape with icon): represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
 
 This example shows the App VSI deployedTo App Subnet and App VSI deployedOn both the Maint SG and App SG. 
 ![](images/DeployedTo.png)
 
 Using a non-container group for security group prevents ambiguities as to whether the App VSI is physically in the subnet or a security group if the security group were a container group, however since the security group is a non-container group the App VSI is only physically in the subnet on the diagram.  
 
-Use alt-click (option-click on Mac) to click inside of a non-container group.
+If needed, use alt-click or option-click to select shapes inside of a non-container group.
 
 </p>
 </details>
