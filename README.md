@@ -282,9 +282,6 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 
 ### v2.0 Templates
 
-> **Important**
-To be updated to 24pt size
-
 Find latest templates in [drawio/templates/v2.0](/drawio/templates/v2.0).
 
 </details>
