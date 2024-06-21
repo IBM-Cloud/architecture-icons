@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Continuous Delivery</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-Cloud/-Devops" transform="translate(-124, -49)">
+            <g id="Continuous-Delivery" transform="translate(124, 49)">
+                <g id="ibm-cloud--continuous-delivery" fill="#EE5396">
+                    <rect id="Rectangle-Copy-56" x="0" y="0" width="48" height="48"></rect>
+                </g>
+                <g id="Group-4" transform="translate(13, 13)" fill-rule="nonzero">
+                    <path d="M17.8888889,0 L12.7777778,4.92857143 L13.9703704,6.07857143 L17.037037,3.12142857 L17.037037,13.9642857 C17.037037,18.0714286 13.6296296,21.3571429 9.37037037,21.3571429 C8.00740741,21.3571429 6.72962963,21.0285714 5.70740741,20.4535714 C6.04814815,20.5357143 6.38888889,20.5357143 6.81481481,20.5357143 C10.562963,20.5357143 13.6296296,17.5785714 13.6296296,13.9642857 C13.6296296,10.35 10.562963,7.39285714 6.81481481,7.39285714 C3.06666667,7.39285714 0,10.35 0,13.9642857 C0,18.975 4.17407407,23 9.37037037,23 C14.5666667,23 18.7407407,18.975 18.7407407,13.9642857 L18.7407407,3.12142857 L21.8074074,6.07857143 L23,4.92857143 L17.8888889,0 Z" id="Path" fill="#FFFFFF"></path>
+                    <path d="M2,15.05 C2,14.8666667 2,14.6833333 2,14.5 C2,11.475 4.25,9 7,9 C9.75,9 12,11.475 12,14.5 C12,17.525 9.75,20 7,20 C4.41666667,20 2.25,17.8 2,15.05 Z" id="Path" fill="#EE5396"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

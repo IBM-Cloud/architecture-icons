@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AI</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/AI" transform="translate(-662, -48)">
+            <g id="AI" transform="translate(662, 48.5799)">
+                <g id="IBM®-watsonx.governance™-Copy-8" fill="#A56EFF">
+                    <polygon id="Box" points="0 48 48 48 48 0 0 0"></polygon>
+                </g>
+                <g transform="translate(14.5055, 17.4201)" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="Path" points="10 2 13 2 13 12 10 12 10 14 18 14 18 12 15 12 15 2 18 2 18 0 10 0"></polygon>
+                    <path d="M6,0 L2,0 C0.897,0 0,0.897 0,2 L0,14 L2,14 L2,9 L6,9 L6,14 L8,14 L8,2 C8,0.897 7.103,0 6,0 Z M2,7 L2,2 L6,2 L6,7 L2,7 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

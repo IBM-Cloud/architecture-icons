@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>router--voice</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-1359, -86)">
+            <g id="router--voice" transform="translate(1359, 86)">
+                <rect id="Rectangle-Copy-22" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g id="router--voice(1)" transform="translate(12, 12)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="15.75 18.75 12 22.5 8.25 18.75 9.30675 17.68575 11.25 19.61475 11.25 14.25 12.75 14.25 12.75 19.6545 14.69325 17.68575"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="18 8.25 14.25 12 18 15.75 19.06425 14.69325 17.13525 12.75 22.5 12.75 22.5 11.25 17.0955 11.25 19.06425 9.30675"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="6 8.25 9.75 12 6 15.75 4.93575 14.69325 6.86475 12.75 1.5 12.75 1.5 11.25 6.9045 11.25 4.93575 9.30675"></polygon>
+                    <path d="M9.321675,4.367025 L9.321675,5.589525 C9.31957618,5.92382637 9.12062363,6.22547453 8.81415,6.359025 L7.77165,6.80655 C7.45883106,6.93860681 7.09729361,6.86968337 6.855,6.6318 L5.4906,5.267475 C5.33479144,5.10919592 5.24824553,4.89550164 5.24997744,4.67340823 C5.25176189,4.45131483 5.34168013,4.23901751 5.499975,4.083225 L5.526075,4.058625 C11.070825,-0.836625 16.54455,2.530575 18.4356,4.02315 C18.796738,4.31202137 18.8553629,4.83894022 18.56655,5.200125 C18.5461848,5.22567383 18.5243214,5.24999158 18.501075,5.27295 L17.1831,6.59085 C16.9417808,6.83076907 16.5788535,6.8999108 16.266225,6.765525 L15.223725,6.318 C14.9151434,6.1880746 14.7142751,5.88609275 14.713725,5.551275 L14.713725,4.328775 C14.713725,4.328775 11.97945,2.2986 9.321675,4.367025 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

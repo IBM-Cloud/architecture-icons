@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Virtual Server </title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Compute" transform="translate(-1253, -48)">
+            <g id="Virtual-Server-" transform="translate(1253, 48.3421)">
+                <polygon id="Rectangle" fill="#198038" points="0 48 48 48 48 0 0 0"></polygon>
+                <g id="ibm-cloud--virtual-server-vpc" transform="translate(11.9958, 11.6579)">
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6" cy="19.5" r="1"></circle>
+                    <path d="M3.75,22.5 L20.25,22.5 C21.075,22.5 21.75,21.825 21.75,21 L21.75,18 C21.75,17.175 21.075,16.5 20.25,16.5 L3.75,16.5 C2.925,16.5 2.25,17.175 2.25,18 L2.25,21 C2.25,21.825 2.925,22.5 3.75,22.5 Z M3.75,18 L20.25,18 L20.25,21 L3.75,21 L3.75,18 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M17.25,15 L6.75,15 C4.2675,15 2.25,12.9825 2.25,10.5 C2.25,8.2125 3.9675,6.315 6.1875,6.0375 C6.8475,3.4125 9.2475,1.5 12,1.5 C14.7525,1.5 17.1525,3.4125 17.8125,6.0375 C20.0325,6.315 21.75,8.2125 21.75,10.5 C21.75,12.9825 19.7325,15 17.25,15 Z M6.7125,7.5 C5.0775,7.5225 3.75,8.8575 3.75,10.5 C3.75,12.1575 5.0925,13.5 6.75,13.5 L17.25,13.5 C18.9075,13.5 20.25,12.1575 20.25,10.5 C20.25,8.8575 18.93,7.5225 17.295,7.5 L17.205,7.5075 L16.545,7.5225 L16.455,6.8625 C16.1325,4.6575 14.22,3 12,3 C9.78,3 7.8675,4.6575 7.5525,6.8625 L7.4625,7.5225 L6.7125,7.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

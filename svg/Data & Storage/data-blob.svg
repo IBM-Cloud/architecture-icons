@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>data-blob</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Data-" transform="translate(-61, -49)">
+            <g id="data-blob" transform="translate(61, 49)">
+                <polygon id="Fill-4" fill="#0F62FE" points="0 48 48 48 48 0 0 0"></polygon>
+                <path d="M33,34.5 L15,34.5 C14.1719327,34.4991319 13.5008681,33.8280673 13.5,33 L13.5,15 C13.5008681,14.1719327 14.1719327,13.5008681 15,13.5 L33,13.5 C33.8280673,13.5008681 34.4991319,14.1719327 34.5,15 L34.5,33 C34.4991319,33.8280673 33.8280673,34.4991319 33,34.5 Z M15,15 L15,33 L33,33 L33,15 L15,15 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="21.75" y="17.25" width="1.5" height="5.25"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="18" y="17.25" width="1.5" height="5.25"></rect>
+                <path d="M28.5,22.5 L27,22.5 C26.1719327,22.4991319 25.5008681,21.8280673 25.5,21 L25.5,18.75 C25.5008681,17.9219327 26.1719327,17.2508681 27,17.25 L28.5,17.25 C29.3280673,17.2508681 29.9991319,17.9219327 30,18.75 L30,21 C29.9991319,21.8280673 29.3280673,22.4991319 28.5,22.5 Z M27,18.75 L27,21 L28.5,21 L28.5,18.75 L27,18.75 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="28.5" y="25.5" width="1.5" height="5.25"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="18" y="25.5" width="1.5" height="5.25"></rect>
+                <path d="M24.75,30.75 L23.25,30.75 C22.4219327,30.7491319 21.7508681,30.0780673 21.75,29.25 L21.75,27 C21.7508681,26.1719327 22.4219327,25.5008681 23.25,25.5 L24.75,25.5 C25.5780673,25.5008681 26.2491319,26.1719327 26.25,27 L26.25,29.25 C26.2491319,30.0780673 25.5780673,30.7491319 24.75,30.75 L24.75,30.75 Z M23.25,27 L23.25,29.25 L24.75,29.25 L24.75,27 L23.25,27 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="_Transparent_Rectangle_" x="12" y="12" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

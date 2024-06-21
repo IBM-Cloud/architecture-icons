@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Administrator</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-482, -18)">
+            <g id="Administrator" transform="translate(482, 18)">
+                <rect id="Rectangle-" fill="#000000" x="0" y="0" width="48" height="48" rx="24"></rect>
+                <g id="user--admin" transform="translate(12, 12)">
+                    <path d="M9,3 C11.0710678,3 12.75,4.67893219 12.75,6.75 C12.75,8.82106781 11.0710678,10.5 9,10.5 C6.92893219,10.5 5.25,8.82106781 5.25,6.75 C5.25,4.67893219 6.92893219,3 9,3 M9,1.5 C6.10050506,1.5 3.75,3.85050506 3.75,6.75 C3.75,9.64949494 6.10050506,12 9,12 C11.8994949,12 14.25,9.64949494 14.25,6.75 C14.25,5.35761343 13.6968766,4.02225539 12.7123106,3.0376894 C11.7277446,2.05312341 10.3923866,1.5 9,1.5 L9,1.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M16.5,22.5 L15,22.5 L15,18.75 C15,16.6789322 13.3210678,15 11.25,15 L6.75,15 C4.67893219,15 3,16.6789322 3,18.75 L3,22.5 L1.5,22.5 L1.5,18.75 C1.5,15.8505051 3.85050506,13.5 6.75,13.5 L11.25,13.5 C14.1494949,13.5 16.5,15.8505051 16.5,18.75 L16.5,22.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="18.75 12.135 16.8075 10.1925 15.75 11.25 18.75 14.25 24 9 22.9425 7.9425"></polygon>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

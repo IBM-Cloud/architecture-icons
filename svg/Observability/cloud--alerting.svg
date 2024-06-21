@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cloud--alerting</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-Cloud-/-Observability" transform="translate(-56, -48)">
+            <g id="cloud--alerting" transform="translate(56, 48)">
+                <rect id="Rectangle-Copy-28" fill="#009D9A" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M21,12.75 L21,16.5 L3,16.5 L3,4.5 L11.25,4.5 L11.25,3 L3,3 C2.17157288,3 1.5,3.67157288 1.5,4.5 L1.5,16.5 C1.5,17.3284271 2.17157288,18 3,18 L9,18 L9,21 L6,21 L6,22.5 L18,22.5 L18,21 L15,21 L15,18 L21,18 C21.8284271,18 22.5,17.3284271 22.5,16.5 L22.5,12.75 L21,12.75 Z M13.5,21 L10.5,21 L10.5,18 L13.5,18 L13.5,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M21.75,10.5000001 L12.75,10.5000001 C12.4798311,10.5000001 12.230563,10.354615 12.0974557,10.1195115 C11.9643484,9.88440798 11.9679751,9.59588342 12.10695,9.3642 L16.60695,1.8642 C16.7424568,1.63814906 16.9866702,1.49981286 17.250225,1.49981286 C17.5137798,1.49981286 17.7579932,1.63814906 17.8935,1.8642 L22.3935,9.3642 C22.5325163,9.59595243 22.536101,9.88457372 22.4028835,10.1197073 C22.2696659,10.3548409 22.0202493,10.5001215 21.75,10.5000001 Z M14.074575,9 L20.425425,9 L17.25,3.7077 L14.074575,9 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

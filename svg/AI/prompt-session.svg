@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>prompt-session</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/AI" transform="translate(-392, -48)">
+            <g id="prompt-session" transform="translate(392, 48.5799)">
+                <g id="IBM®-watsonx.governance™-Copy-4" fill="#A56EFF">
+                    <polygon id="Box" points="0 48 48 48 48 0 0 0"></polygon>
+                </g>
+                <g transform="translate(11.5055, 12.4201)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="20.25 19.189425 18.75 17.689425 18.75 15.75 17.25 15.75 17.25 18.310575 19.189425 20.25"></polygon>
+                    <path d="M18,23.25 C15.105075,23.25 12.75,20.894925 12.75,18 C12.75,15.105075 15.105075,12.75 18,12.75 C20.894925,12.75 23.25,15.105075 23.25,18 C23.25,20.894925 20.894925,23.25 18,23.25 Z M18,14.25 C15.932175,14.25 14.25,15.932175 14.25,18 C14.25,20.067825 15.932175,21.75 18,21.75 C20.067825,21.75 21.75,20.067825 21.75,18 C21.75,15.932175 20.067825,14.25 18,14.25 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M21,11.25 L22.5,11.25 L22.5,3.75 C22.5,2.92275 21.826875,2.25 21,2.25 L18.75,2.25 L18.75,3.75 L21,3.75 L21,11.25 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6.75" cy="9.75" r="1.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="12" cy="9.75" r="1.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="17.25" cy="9.75" r="1.5"></circle>
+                    <path d="M5.25,17.25 L3,17.25 C2.17275,17.25 1.5,16.576875 1.5,15.75 L1.5,3.75 C1.5,2.92275 2.17275,2.25 3,2.25 L5.25,2.25 L5.25,3.75 L3,3.75 L3,15.75 L5.25,15.75 L5.25,17.25 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

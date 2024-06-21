@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wifi--controller</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-181, -148)">
+            <g id="wifi--controller" transform="translate(181, 148)">
+                <rect id="Rectangle-Copy-56" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12.0004, 12)">
+                    <path d="M4.5,22.5 L19.5,22.5 C20.3284271,22.5 21,21.8284271 21,21 L21,16.5 C21,15.6715729 20.3284271,15 19.5,15 L4.5,15 C3.67157288,15 3,15.6715729 3,16.5 L3,21 C3,21.8284271 3.67157288,22.5 4.5,22.5 Z M4.5,16.5 L19.5,16.5 L19.5,21 L4.5,21 L4.5,16.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6.75" cy="18.75" r="1"></circle>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="12" cy="10.875" r="1.125"></circle>
+                    <path d="M8.0874,7.749375 C9.08344581,6.63622452 10.5064635,6.00000792 12.0001875,6.00000792 C13.4939115,6.00000792 14.9169292,6.63622452 15.912975,7.749375 L14.795475,8.749875 C14.0840675,7.95446363 13.0674738,7.49981627 12.0003375,7.49981627 C10.9332012,7.49981627 9.91660748,7.95446363 9.2052,8.749875 L8.0874,7.749375 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M5.3994,5.54955 C6.95777967,3.47251019 9.40296531,2.25019977 11.999625,2.25019977 C14.5962847,2.25019977 17.0414703,3.47251019 18.59985,5.54955 L17.4,6.45 C16.1250454,4.75019977 14.1241967,3.74986373 11.9993813,3.7499375 C9.87456579,3.75001127 7.87378655,4.75048309 6.59895,6.450375 L5.3994,5.54955 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

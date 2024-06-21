@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>phone--application</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-590, -82)">
+            <g id="phone--application" transform="translate(590, 82)">
+                <rect id="Rectangle-Copy-2" fill="#A56EFF" x="0" y="0" width="48" height="48" rx="24"></rect>
+                <g transform="translate(12, 12)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="19.5" y="1.5" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="19.5" y="6" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="15" y="1.5" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="15" y="6" width="3" height="3"></rect>
+                    <path d="M18.75,22.4999993 L18.6225,22.4999993 C3.885,21.6525 1.7925,9.2175 1.5,5.4225 C1.40471718,4.18352739 2.33185344,3.10189641 3.570825,3.0066 C3.630275,3.0022 3.69,2.99999929 3.75,2.99999929 L7.7025,2.99999929 C8.31720577,2.99940493 8.87005905,3.37391844 9.0975,3.945 L10.2375,6.75 C10.4618723,7.30735705 10.3320179,7.9448243 9.9075,8.37 L8.31,9.9825 C8.8190959,12.8882756 11.090576,15.165749 13.995,15.6825 L15.6225,14.07 C16.054106,13.6501286 16.6949547,13.5290466 17.25,13.7625 L20.0775,14.895 C20.6397482,15.1295272 21.0043089,15.680814 21.0000378,16.29 L21.0000378,20.25 C21.0000378,21.4926407 19.9926407,22.4999993 18.75,22.4999993 L18.75,22.4999993 Z M3.75,4.49999614 C3.55108732,4.49936246 3.36006844,4.57776931 3.21896585,4.71797173 C3.07786326,4.85817415 2.9982355,5.04868732 2.9976,5.2476 C2.9976,5.26845 2.99835,5.289225 3,5.31 C3.345,9.75 5.5575,20.25 18.705,20.9999961 C19.1184398,21.0248104 19.4737222,20.7097872 19.498575,20.29635 C19.499525,20.2809 19.5,20.26545 19.5,20.25 L19.5,16.29 L16.6725,15.1575 L14.52,17.295 L14.16,17.25 C7.635,16.4325 6.75,9.9075 6.75,9.84 L6.705,9.48 L8.835,7.3275 L7.71,4.49999614 L3.75,4.49999614 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

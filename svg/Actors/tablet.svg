@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tablet</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-235, -18)">
+            <g id="tablet" transform="translate(235, 18)">
+                <rect id="Rectangle-" fill="#000000" x="0" y="0" width="48" height="48" rx="24"></rect>
+                <g transform="translate(12.0003, 12)">
+                    <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(12, 18.75) rotate(90) translate(-12, -18.75)" points="11.25 16.5 12.75 16.5 12.75 21 11.25 21"></polygon>
+                    <path d="M18.75,22.5 L5.25,22.5 C4.42196695,22.4990494 3.7509506,21.8280331 3.75,21 L3.75,3 C3.75082684,2.17191561 4.42191561,1.50082684 5.25,1.5 L18.75,1.5 C19.5780331,1.5009506 20.2490494,2.17196695 20.25,3 L20.25,21 C20.2488845,21.8279646 19.5779646,22.4988845 18.75,22.5 Z M5.25,3 L5.25,21 L18.75,21 L18.75,3 L5.25,3 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

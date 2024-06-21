@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>router--wifi</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-245, -148)">
+            <g id="router--wifi" transform="translate(245, 148)">
+                <rect id="Rectangle-Copy-23" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="12" cy="10.125" r="1.125"></circle>
+                    <path d="M14.6517,7.8486 C13.9484193,7.14519354 12.9944905,6.75001334 11.9998125,6.75001334 C11.0051345,6.75001334 10.0512057,7.14519354 9.347925,7.8486 L8.2875,6.7881 C9.27200332,5.80327108 10.6074718,5.24997257 12,5.24997257 C13.3925282,5.24997257 14.7279967,5.80327108 15.7125,6.7881 L14.6517,7.8486 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M17.303475,5.19675 C15.896938,3.79012063 13.989209,2.99987671 12,2.99987671 C10.010791,2.99987671 8.10306199,3.79012063 6.696525,5.19675 L5.63595,4.1358 C9.15087768,0.621418332 14.8491223,0.621418332 18.36405,4.1358 L17.303475,5.19675 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="15.75 18.75 12 22.5 8.25 18.75 9.30675 17.68575 11.25 19.61475 11.25 14.25 12.75 14.25 12.75 19.6545 14.69325 17.68575"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="18 8.25 14.25 12 18 15.75 19.06425 14.69325 17.13525 12.75 22.5 12.75 22.5 11.25 17.0955 11.25 19.06425 9.30675"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="6 8.25 9.75 12 6 15.75 4.93575 14.69325 6.86475 12.75 1.5 12.75 1.5 11.25 6.9045 11.25 4.93575 9.30675"></polygon>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

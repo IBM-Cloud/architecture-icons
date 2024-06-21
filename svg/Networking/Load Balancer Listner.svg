@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>load-balancer--listener</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-52, -86)">
+            <g id="load-balancer--listener" transform="translate(52, 86)">
+                <rect id="Rectangle-Copy-48" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="11.25" y="6" width="1.5" height="1.5"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="14.25" y="6" width="1.5" height="1.5"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="8.25" y="6" width="1.5" height="1.5"></rect>
+                    <path d="M18.75,12 L12.75,12 L12.75,9.75 L11.25,9.75 L11.25,12 L5.25,12 C4.42196695,12.0009506 3.7509506,12.6719669 3.75,13.5 L3.75,18 L5.25,18 L5.25,13.5 L11.25,13.5 L11.25,18 L12.75,18 L12.75,13.5 L18.75,13.5 L18.75,18 L20.25,18 L20.25,13.5 C20.2490494,12.6719669 19.5780331,12.0009506 18.75,12 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="3" y="19.5" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="10.5" y="19.5" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="18" y="19.5" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="8.25" y="2.25" width="7.5" height="1.5"></rect>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

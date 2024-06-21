@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ibm--datastage</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-Storage-Icons" transform="translate(-295, -49)">
+            <g id="ibm--datastage" transform="translate(295, 49)">
+                <rect id="Rectangle-Copy-2" fill="#0F62FE" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M20.25,16.575 L20.25,9.75 L18.75,9.75 L18.75,16.575 C17.7,16.875 16.875,17.7 16.575,18.75 L9.75,18.75 L9.75,20.25 L16.575,20.25 C16.875,21.525 18.075,22.5 19.5,22.5 C21.15,22.5 22.5,21.15 22.5,19.5 C22.5,18.075 21.525,16.95 20.25,16.575 Z M19.5,21 C18.675,21 18,20.325 18,19.5 C18,18.675 18.675,18 19.5,18 C20.325,18 21,18.675 21,19.5 C21,20.325 20.325,21 19.5,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M7.5,22.5 L1.5,22.5 L1.5,16.5 L7.5,16.5 L7.5,22.5 Z M3,21 L6,21 L6,18 L3,18 L3,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M7.425,5.25 L14.25,5.25 L14.25,3.75 L7.425,3.75 C7.05,2.475 5.925,1.5 4.5,1.5 C2.85,1.5 1.5,2.85 1.5,4.5 C1.5,5.925 2.475,7.05 3.75,7.425 L3.75,14.25 L5.25,14.25 L5.25,7.425 C6.3,7.125 7.125,6.3 7.425,5.25 Z M4.5,6 C3.675,6 3,5.325 3,4.5 C3,3.675 3.675,3 4.5,3 C5.325,3 6,3.675 6,4.5 C6,5.325 5.325,6 4.5,6 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="16.5 1.5 16.5 3 19.95 3 8.25 14.7 9.3 15.75 21 4.05 21 7.5 22.5 7.5 22.5 1.5"></polygon>
+                    <rect id="_x3C_Transparent_Rectangle_x3E__232_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

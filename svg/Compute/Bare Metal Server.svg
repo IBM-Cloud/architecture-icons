@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bare-metal-server</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bare-metal-server" transform="translate(0, 0.3421)">
+            <g id="Sattelite-v2-Icon-Copy-6" fill="#198038">
+                <polygon id="Fill-4" points="0 48 48 48 48 0 0 0"></polygon>
+            </g>
+            <g transform="translate(12.3429, 11.4874)">
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6.75" cy="4.5" r="1"></circle>
+                <path d="M19.5,7.5 L4.5,7.5 C3.67193272,7.4991319 3.0008681,6.82806728 3,6 L3,3 C3.0008681,2.17193272 3.67193272,1.5008681 4.5,1.5 L19.5,1.5 C20.3280673,1.5008681 20.9991319,2.17193272 21,3 L21,6 C20.9991319,6.82806728 20.3280673,7.4991319 19.5,7.5 Z M4.5,3 L4.5,6 L19.5,6 L19.5,3 L4.5,3 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6.75" cy="12" r="1"></circle>
+                <path d="M19.5,15 L4.5,15 C3.67193272,14.9991319 3.0008681,14.3280673 3,13.5 L3,10.5 C3.0008681,9.67193272 3.67193272,9.0008681 4.5,9 L19.5,9 C20.3280673,9.0008681 20.9991319,9.67193272 21,10.5 L21,13.5 C20.9991319,14.3280673 20.3280673,14.9991319 19.5,15 Z M4.5,10.5 L4.5,13.5 L19.5,13.5 L19.5,10.5 L4.5,10.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6.75" cy="19.5" r="1"></circle>
+                <path d="M19.5,22.5 L4.5,22.5 C3.67193272,22.4991319 3.0008681,21.8280673 3,21 L3,18 C3.0008681,17.1719327 3.67193272,16.5008681 4.5,16.5 L19.5,16.5 C20.3280673,16.5008681 20.9991319,17.1719327 21,18 L21,21 C20.9991319,21.8280673 20.3280673,22.4991319 19.5,22.5 Z M4.5,18 L4.5,21 L19.5,21 L19.5,18 L4.5,18 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

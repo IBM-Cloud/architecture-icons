@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>repo--source-code</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-Cloud/-Devops" transform="translate(-652, -49)">
+            <g id="repo--source-code" transform="translate(652, 49)">
+                <rect id="Rectangle-Copy-57" fill="#EE5396" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="17.7 16.05 20.4 18.75 20.4 18.75 17.7 21.45 18.75 22.5 22.5 18.75 18.75 15"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="15.3 16.05 12.6 18.75 12.6 18.75 15.3 21.45 14.25 22.5 10.5 18.75 14.25 15"></polygon>
+                    <path d="M21,6 L12,6 L9.45,3.45 C9.15,3.15 8.775,3 8.4,3 L3,3 C2.175,3 1.5,3.675 1.5,4.5 L1.5,19.5 C1.5,20.325 2.175,21 3,21 L8.25,21 L8.25,19.5 L3,19.5 L3,4.5 L8.4,4.5 L10.95,7.05 L11.4,7.5 L21,7.5 L21,13.5 L22.5,13.5 L22.5,7.5 C22.5,6.675 21.825,6 21,6 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_x3C_Transparent_Rectangle_x3E__589_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>transmission-lte</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-245, -86)">
+            <g id="transmission-lte" transform="translate(245, 86)">
+                <rect id="Rectangle-" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M7.9275,22.5 L8.627475,21 L15.372075,21 L16.07205,22.5 L17.72745,22.5 L12.75,11.83335 L12.75,8.25 L11.25,8.25 L11.25,11.83335 L6.272325,22.5 L7.9275,22.5 Z M12,13.773525 L13.272375,16.5 L10.727625,16.5 L12,13.773525 Z M10.0275,18 L13.9725,18 L14.672475,19.5 L9.327675,19.5 L10.0275,18 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M8.0874,6.999375 C9.08344581,5.88622452 10.5064635,5.25000792 12.0001875,5.25000792 C13.4939115,5.25000792 14.9169292,5.88622452 15.912975,6.999375 L14.795475,7.999875 C14.0840675,7.20446363 13.0674738,6.74981627 12.0003375,6.74981627 C10.9332012,6.74981627 9.91660748,7.20446363 9.2052,7.999875 L8.0874,6.999375 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M5.3994,4.79955 C6.95777967,2.72251019 9.40296531,1.50019977 11.999625,1.50019977 C14.5962847,1.50019977 17.0414703,2.72251019 18.59985,4.79955 L17.4,5.7 C16.1251044,4.00015235 14.1242905,2.99975 11.999475,2.99975 C9.87465954,2.99975 7.87384557,4.00015235 6.59895,5.7 L5.3994,4.79955 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

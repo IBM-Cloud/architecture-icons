@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Global Load Balancer</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-830, -24)">
+            <g id="Global-Load-Balancer" transform="translate(830, 24)">
+                <rect id="Rectangle-Copy-13" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="3" y="19.5" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="10.5" y="19.5" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="18" y="19.5" width="3" height="3"></rect>
+                    <path d="M18.75,12 L12.75,12 L12.75,9 L11.25,9 L11.25,12 L5.25,12 C4.42196695,12.0009506 3.7509506,12.6719669 3.75,13.5 L3.75,18 L5.25,18 L5.25,13.5 L11.25,13.5 L11.25,18 L12.75,18 L12.75,13.5 L18.75,13.5 L18.75,18 L20.25,18 L20.25,13.5 C20.2490494,12.6719669 19.5780331,12.0009506 18.75,12 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M12,7.5 C10.3431458,7.5 9,6.15685425 9,4.5 C9,2.84314575 10.3431458,1.5 12,1.5 C13.6568542,1.5 15,2.84314575 15,4.5 C14.99814,6.15608322 13.6560832,7.49814004 12,7.5 L12,7.5 Z M12,3 C11.1715729,3 10.5,3.67157288 10.5,4.5 C10.5,5.32842712 11.1715729,6 12,6 C12.8284271,6 13.5,5.32842712 13.5,4.5 C13.4991319,3.67193272 12.8280673,3.0008681 12,3 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

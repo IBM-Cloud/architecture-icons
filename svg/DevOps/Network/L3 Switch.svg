@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>L3 Switch</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-1360, -24)">
+            <g id="L3-Switch" transform="translate(1360, 24)">
+                <rect id="Rectangle-Copy-15" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g id="switch-layer-3" transform="translate(12, 12)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="16.5 3 16.5 4.5 18.4395 4.5 14.6895 8.25 15.75 9.3105 19.5 5.5605 19.5 7.5 21 7.5 21 3"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="7.5 3 7.5 4.5 5.5605 4.5 9.3105 8.25 8.25 9.3105 4.5 5.5605 4.5 7.5 3 7.5 3 3"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="15 3.75 12 0.75 9 3.75 10.0605 4.8105 11.25 3.62175 11.25 8.25 12.75 8.25 12.75 3.62175 13.9395 4.8105"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="16.5 21 16.5 19.5 18.4395 19.5 14.6895 15.75 15.75 14.6895 19.5 18.4395 19.5 16.5 21 16.5 21 21"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="7.5 21 7.5 19.5 5.5605 19.5 9.3105 15.75 8.25 14.6895 4.5 18.4395 4.5 16.5 3 16.5 3 21"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="15 20.25 12 23.25 9 20.25 10.0605 19.1895 11.25 20.37825 11.25 15.75 12.75 15.75 12.75 20.37825 13.9395 19.1895"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="3.75 9 0.75 12 3.75 15 4.8105 13.9395 3.62175 12.75 8.25 12.75 8.25 11.25 3.62175 11.25 4.8105 10.0605"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="20.25 9 23.25 12 20.25 15 19.1895 13.9395 20.37825 12.75 15.75 12.75 15.75 11.25 20.37825 11.25 19.1895 10.0605"></polygon>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

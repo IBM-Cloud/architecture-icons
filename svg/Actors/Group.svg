@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-617, -18)">
+            <g id="Group" transform="translate(617, 18)">
+                <rect id="Rectangle-Copy-19" fill="#000000" x="0" y="0" width="48" height="48" rx="24"></rect>
+                <g id="user--multiple" transform="translate(12, 14)">
+                    <path d="M22.5,22.5 L21,22.5 L21,18.75 C20.9976441,16.6799088 19.3200912,15.0023559 17.25,15 L17.25,13.5 C20.1481585,13.503224 22.496776,15.8518415 22.5,18.75 L22.5,22.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M16.5,22.5 L15,22.5 L15,18.75 C14.9975616,16.679943 13.320057,15.0024384 11.25,15 L6.75,15 C4.67994303,15.0024384 3.00243835,16.679943 3,18.75 L3,22.5 L1.5,22.5 L1.5,18.75 C1.50338895,15.85191 3.85190997,13.503389 6.75,13.5 L11.25,13.5 C14.14809,13.503389 16.496611,15.85191 16.5,18.75 L16.5,22.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M15,1.5 L15,3 C17.0710678,3 18.75,4.67893219 18.75,6.75 C18.75,8.82106781 17.0710678,10.5 15,10.5 L15,12 C17.8994949,12 20.25,9.64949494 20.25,6.75 C20.25,3.85050506 17.8994949,1.5 15,1.5 L15,1.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M9,3 C11.0710678,3 12.75,4.67893219 12.75,6.75 C12.75,8.82106781 11.0710678,10.5 9,10.5 C6.92893219,10.5 5.25,8.82106781 5.25,6.75 C5.25,4.67893219 6.92893219,3 9,3 M9,1.5 C6.10050506,1.5 3.75,3.85050506 3.75,6.75 C3.75,9.64949494 6.10050506,12 9,12 C11.8994949,12 14.25,9.64949494 14.25,6.75 C14.25,5.35761343 13.6968766,4.02225539 12.7123106,3.0376894 C11.7277446,2.05312341 10.3923866,1.5 9,1.5 L9,1.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

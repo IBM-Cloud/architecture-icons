@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Virtual Application</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-464, -81)">
+            <g id="Virtual-Application" transform="translate(464, 81)">
+                <rect id="Rectangle-Copy-8" fill="#A56EFF" x="0" y="0" width="48" height="48" rx="24"></rect>
+                <g id="application--virtual(1)" transform="translate(12.0394, 11.9834)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="12.7499804" y="14.25" width="2.99992165" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="8.25009793" y="14.25" width="2.99992165" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="12.7499804" y="18.75" width="2.99992165" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="8.25009793" y="18.75" width="2.99992165" height="3"></rect>
+                    <path d="M18.3748335,18.7500007 L17.9998433,18.7500007 L17.9998433,17.25 L18.3748335,17.25 C20.5973234,17.2514563 22.4208058,15.4906204 22.4970739,13.269381 C22.573342,11.0481417 20.8749314,9.16637244 18.6575761,9.015375 L18.0302175,8.972925 L17.9627193,8.347425 C17.6306668,5.30450084 15.0607588,2.99971909 11.99985,2.99971909 C8.93894121,2.99971909 6.36903319,5.30450084 6.03698073,8.347425 L5.96948249,8.972925 L5.34212388,9.015375 C3.12470926,9.16637482 1.42627726,11.0482352 1.5026282,13.2695312 C1.57897915,15.4908271 3.40261733,17.2516197 5.62516648,17.25 L6.00015669,17.25 L6.00015669,18.7500007 L5.62516648,18.7500007 C2.71192416,18.7514208 0.280173619,16.5271929 0.0223346433,13.625307 C-0.235504333,10.7234211 1.76599004,8.10526905 4.63384237,7.593 C5.30884485,4.05735863 8.40059236,1.49997407 12,1.49997407 C15.5994076,1.49997407 18.6911551,4.05735863 19.3661576,7.593 C22.23401,8.10526905 24.2355043,10.7234211 23.9776654,13.625307 C23.7198264,16.5271929 21.2880758,18.7514208 18.3748335,18.7500007 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0.000313381616" y="0" width="23.9993732" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>database--enterprisedb</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Data-" transform="translate(-1024, -49)">
+            <g id="database--enterprisedb" transform="translate(1024, 49)">
+                <rect id="Rectangle-Copy-12" fill="#0F62FE" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M13.38,18 L13.38,8.99745 L15.58725,8.99745 L15.58725,10.49745 L15.673425,10.49745 C16.0252107,9.42077126 17.0609015,8.71850554 18.191325,8.79015 C20.036325,8.79015 21.071325,10.066425 21.071325,12.308325 L21.071325,18 L18.863925,18 L18.863925,12.533025 C18.863925,11.25675 18.432825,10.601475 17.380725,10.601475 C16.4667,10.601475 15.58725,11.084325 15.58725,12.050025 L15.58725,18 L13.38,18 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="3.1677 18 3.1677 5.9625 11.101125 5.9625 11.101125 7.98 5.44425 7.98 5.44425 10.89465 10.445775 10.89465 10.445775 12.912525 5.44425 12.912525 5.44425 15.9825 11.101125 15.9825 11.101125 18"></polygon>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

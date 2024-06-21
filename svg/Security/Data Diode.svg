@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Data Diode</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Security" transform="translate(-1458, -77)">
+            <g id="Data-Diode" transform="translate(1458, 77)">
+                <rect id="Rectangle-" fill="#FA4D56" x="0" y="0" width="48" height="48"></rect>
+                <g id="data-diode" transform="translate(12, 12)">
+                    <path d="M22.5,11.25 L20.25,11.25 L20.25,5.25 L18.75,5.25 L18.75,11.25 L16.5,11.25 L16.5,5.25 L15,5.25 L15,11.11965 L5.642925,5.3613 C5.41153364,5.21897925 5.12127111,5.21290803 4.88413108,5.34542883 C4.64699105,5.47794963 4.50004884,5.72834368 4.5,6 L4.5,11.25 L1.5,11.25 L1.5,12.75 L4.5,12.75 L4.5,18 C4.50004884,18.2716563 4.64699105,18.5220504 4.88413108,18.6545712 C5.12127111,18.787092 5.41153364,18.7810208 5.642925,18.6387 L15,12.88035 L15,18.75 L16.5,18.75 L16.5,12.75 L18.75,12.75 L18.75,18.75 L20.25,18.75 L20.25,12.75 L22.5,12.75 L22.5,11.25 Z M6,16.6575 L6,7.3425 L13.56885,12 L6,16.6575 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

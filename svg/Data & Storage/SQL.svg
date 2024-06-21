@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SQL</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Data-" transform="translate(-1162, -49)">
+            <g id="SQL" transform="translate(1162, 49)">
+                <rect id="Rectangle-Copy-21" fill="#0F62FE" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="18 15.75 18 6.75 16.5 6.75 16.5 17.25 22.5 17.25 22.5 15.75"></polygon>
+                    <path d="M13.5,6.75 L10.5,6.75 C9.67157288,6.75 9,7.42157288 9,8.25 L9,15.75 C9,16.5784271 9.67157288,17.25 10.5,17.25 L11.25,17.25 L11.25,18.75 C11.25,19.5784271 11.9215729,20.25 12.75,20.25 L14.25,20.25 L14.25,18.75 L12.75,18.75 L12.75,17.25 L13.5,17.25 C14.3284271,17.25 15,16.5784271 15,15.75 L15,8.25 C15,7.42157288 14.3284271,6.75 13.5,6.75 Z M10.5,15.75 L10.5,8.25 L13.5,8.25 L13.5,15.75 L10.5,15.75 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M6,17.25 L1.5,17.25 L1.5,15.75 L6,15.75 L6,12.75 L3,12.75 C2.17157288,12.75 1.5,12.0784271 1.5,11.25 L1.5,8.25 C1.5,7.42157288 2.17157288,6.75 3,6.75 L7.5,6.75 L7.5,8.25 L3,8.25 L3,11.25 L6,11.25 C6.82842712,11.25 7.5,11.9215729 7.5,12.75 L7.5,15.75 C7.5,16.5784271 6.82842712,17.25 6,17.25 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

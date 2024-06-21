@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bare Metal Server for VPC</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bare-Metal-Server-for-VPC" transform="translate(0.0042, 0.3421)">
+            <g id="Process-Copy" fill="#198038">
+                <polygon id="Fill-4" points="0 48 48 48 48 0 0 0"></polygon>
+            </g>
+            <g id="ibm-cloud--bare-metal-servers-vpc(2)" transform="translate(11.9958, 11.6579)">
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6.75" cy="19.5" r="1"></circle>
+                <path d="M3,18 L3,21 C3,21.825 3.675,22.5 4.5,22.5 L13.5,22.5 L13.5,21 L4.5,21 L4.5,18 L13.5,18 L13.5,16.5 L4.5,16.5 C3.675,16.5 3,17.175 3,18 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M3,9.75 L3,13.5 C3,14.325 3.675,15 4.5,15 L10.5,15 L10.5,13.5 L4.5,13.5 L4.5,9.75 L3,9.75 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6.75" cy="12" r="1"></circle>
+                <path d="M21,14.25 L21,10.5 C21,9.675 20.325,9 19.5,9 L13.5,9 L13.5,10.5 L19.5,10.5 L19.5,14.25 L21,14.25 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M21,6 L21,3 C21,2.175 20.325,1.5 19.5,1.5 L10.5,1.5 L10.5,3 L19.5,3 L19.5,6 L10.5,6 L10.5,7.5 L19.5,7.5 C20.325,7.5 21,6.825 21,6 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M17.5575,16.5 L7.5,6.4425 L7.5,1.5 L1.5,1.5 L1.5,7.5 L6.4425,7.5 L16.5,17.5575 L16.5,22.5 L22.5,22.5 L22.5,16.5 L17.5575,16.5 Z M6,6 L3,6 L3,3 L6,3 L6,6 Z M21,21 L18,21 L18,18 L21,18 L21,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="_Transparent_Rectangle_">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

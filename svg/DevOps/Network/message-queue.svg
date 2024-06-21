@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>message-queue</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-382, -86)">
+            <g id="message-queue" transform="translate(382, 86)">
+                <rect id="Rectangle-Cop" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M21,21 L3,21 C2.17193272,20.9991319 1.5008681,20.3280673 1.5,19.5 L1.5,15.75 L3,15.75 L3,19.5 L21,19.5 L21,15.75 L22.5,15.75 L22.5,19.5 C22.4991319,20.3280673 21.8280673,20.9991319 21,21 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="5.25" y="15.75" width="13.5" height="1.5"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="5.25" y="12" width="13.5" height="1.5"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="5.25" y="8.25" width="13.5" height="1.5"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="5.25" y="4.5" width="13.5" height="1.5"></rect>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

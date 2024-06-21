@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PreProd Service</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-Cloud/-Devops" transform="translate(-322, -49)">
+            <g id="PreProd-Service" transform="translate(322, 49)">
+                <rect id="Rectangle-Copy-41" fill="#EE5396" x="0" y="0" width="48" height="48"></rect>
+                <g id="Group" transform="translate(17, 13)" stroke="#FFFFFF" stroke-width="2">
+                    <polyline id="Path-7" stroke-linejoin="round" points="5 0 15 0 15 12"></polyline>
+                    <rect id="Rectangle" x="1" y="3" width="11" height="18" rx="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

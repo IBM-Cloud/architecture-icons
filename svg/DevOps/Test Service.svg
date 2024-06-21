@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Test Service</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-Cloud/-Devops" transform="translate(-718, -49)">
+            <g id="Test-Service" transform="translate(718, 49)">
+                <rect id="Rectangle-Copy-36" fill="#EE5396" x="0" y="0" width="48" height="48"></rect>
+                <g id="Group-11" transform="translate(17, 12)" stroke="#FFFFFF" stroke-width="2">
+                    <path d="M12,1 C12.5522847,1 13.0522847,1.22385763 13.4142136,1.58578644 C13.7761424,1.94771525 14,2.44771525 14,3 L14,21 C14,21.5522847 13.7761424,22.0522847 13.4142136,22.4142136 C13.0522847,22.7761424 12.5522847,23 12,23 L3,23 C2.44771525,23 1.94771525,22.7761424 1.58578644,22.4142136 C1.22385763,22.0522847 1,21.5522847 1,21 L1,3 C1,2.44771525 1.22385763,1.94771525 1.58578644,1.58578644 C1.94771525,1.22385763 2.44771525,1 3,1 L12,1 Z" id="Rectangle"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

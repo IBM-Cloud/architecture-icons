@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wifi-bridge--alt</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-114, -148)">
+            <g id="wifi-bridge--alt" transform="translate(114, 148)">
+                <rect id="Rectangle-Copy-32" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M9.75,19.5 L8.25,19.5 C8.24764412,17.4299088 6.57009119,15.7523559 4.5,15.75 L4.5,14.25 C7.39815847,14.253224 9.74677601,16.6018415 9.75,19.5 L9.75,19.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M13.5,19.5 L12,19.5 C11.9953295,15.3598005 8.64019949,12.0046705 4.5,12 L4.5,10.5 C9.46821543,10.5056624 13.4943376,14.5317846 13.5,19.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M19.5,9.75 C16.6018415,9.74677601 14.253224,7.39815847 14.25,4.5 L15.75,4.5 C15.7523559,6.57009119 17.4299088,8.24764412 19.5,8.25 L19.5,9.75 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M19.5,13.5 C14.5317846,13.4943376 10.5056624,9.46821543 10.5,4.5 L12,4.5 C12.0046705,8.64019949 15.3598005,11.9953295 19.5,12 L19.5,13.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M5.78025,18.21975 C5.63966279,18.0790364 5.44890974,17.9999737 5.25,17.9999737 C5.05109026,17.9999737 4.86033721,18.0790364 4.71975,18.21975 L1.5,21.439425 L2.560725,22.5 L5.78025,19.28025 C5.92096361,19.1396628 6.00002633,18.9489097 6.00002633,18.75 C6.00002633,18.5510903 5.92096361,18.3603372 5.78025,18.21975 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M21.439425,1.5 L18.21975,4.71975 C17.9355208,5.01403417 17.9395857,5.48181358 18.2288861,5.77111393 C18.5181864,6.06041428 18.9859658,6.06447916 19.28025,5.78025 L22.5,2.560575 L21.439425,1.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

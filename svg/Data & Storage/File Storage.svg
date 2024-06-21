@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>File Storage</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Storage" transform="translate(-329, -49)">
+            <g id="File-Storage" transform="translate(329, 49.1828)">
+                <g id="Cloud-Pak-Data-v2-Icon" fill="#0F62FE">
+                    <polygon id="Fill-4" points="0 48 48 48 48 0 0 0"></polygon>
+                </g>
+                <path d="M33,27 L31.5,27 L31.5,28.5 L33,28.5 L33,33 L15,33 L15,28.5 L16.5,28.5 L16.5,27 L15,27 C14.1719841,27.0009918 13.5009918,27.6719841 13.5,28.5 L13.5,33 C13.5009918,33.8280159 14.1719841,34.4990082 15,34.5 L33,34.5 C33.8280159,34.4990082 34.4990082,33.8280159 34.5,33 L34.5,28.5 C34.4990082,27.6719841 33.8280159,27.0009918 33,27 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="17.25" cy="30.75" r="1"></circle>
+                <path d="M29.03025,17.46975 L25.28025,13.71975 C25.1396305,13.579088 24.9488961,13.5 24.75,13.5 L20.25,13.5 C19.4219669,13.5009506 18.7509506,14.1719669 18.75,15 L18.75,27 C18.7509506,27.8280331 19.4219669,28.4990494 20.25,28.5 L27.75,28.5 C28.5780331,28.4990494 29.2490494,27.8280331 29.25,27 L29.25,18 C29.25,17.8011039 29.170912,17.6103695 29.03025,17.46975 Z M27.439275,18 L24.75,18 L24.75,15.310575 L27.439275,18 Z M20.25,27 L20.25,15 L23.25,15 L23.25,18 C23.2509506,18.8280331 23.9219669,19.4990494 24.75,19.5 L27.75,19.5 L27.75,27 L20.25,27 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="_Transparent_Rectangle_" x="12" y="12" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

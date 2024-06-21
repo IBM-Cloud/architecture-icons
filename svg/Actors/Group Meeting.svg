@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group Meeting</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-684, -18)">
+            <g id="Group-Meeting" transform="translate(684, 18)">
+                <g id="user--military-copy" fill="#000000">
+                    <rect id="Rectangle-Copy-16" x="0" y="0" width="48" height="48" rx="24"></rect>
+                </g>
+                <g id="group--presentation" transform="translate(12, 12)">
+                    <path d="M7.5,22.5 L6,22.5 L6,20.25 L3,20.25 L3,22.5 L1.5,22.5 L1.5,20.25 C1.5009506,19.4219669 2.17196695,18.7509506 3,18.75 L6,18.75 C6.82803305,18.7509506 7.4990494,19.4219669 7.5,20.25 L7.5,22.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M22.5,22.5 L21,22.5 L21,20.25 L18,20.25 L18,22.5 L16.5,22.5 L16.5,20.25 C16.5009506,19.4219669 17.1719669,18.7509506 18,18.75 L21,18.75 C21.8280331,18.7509506 22.4990494,19.4219669 22.5,20.25 L22.5,22.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M15,22.5 L13.5,22.5 L13.5,20.25 L10.5,20.25 L10.5,22.5 L9,22.5 L9,20.25 C9.0009506,19.4219669 9.67196695,18.7509506 10.5,18.75 L13.5,18.75 C14.3280331,18.7509506 14.9990494,19.4219669 15,20.25 L15,22.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="12" cy="16.5" r="1.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="4.5" cy="16.5" r="1.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="19.5" cy="16.5" r="1.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="15.75" cy="13.5" r="1.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="8.25" cy="13.5" r="1.5"></circle>
+                    <path d="M19.5,10.5 L4.5,10.5 C3.67196695,10.4990494 3.0009506,9.82803305 3,9 L3,3 C3.0009506,2.17196695 3.67196695,1.5009506 4.5,1.5 L19.5,1.5 C20.3280331,1.5009506 20.9990494,2.17196695 21,3 L21,9 C20.9990494,9.82803305 20.3280331,10.4990494 19.5,10.5 Z M4.5,3 L4.5,9 L19.5,9 L19.5,3 L4.5,3 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

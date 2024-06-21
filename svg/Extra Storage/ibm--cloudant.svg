@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ibm--cloudant</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-Storage-Icons" transform="translate(-47, -49)">
+            <g id="ibm--cloudant" transform="translate(47, 49)">
+                <rect id="Rectangle-Copy-16" fill="#0F62FE" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M12,19.5 L15.75,19.5 C18.645,19.5 21,17.145 21,14.25 L21,12.75 L19.5,12.75 L19.5,14.25 C19.5,16.32 17.82,18 15.75,18 L12,18 L12,19.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M15.1875,10.5 C13.4325,10.5 12,9.0675 12,7.3125 C12,5.97 12.855,4.7775 14.085,4.32 C14.64,2.6625 16.215,1.5 18,1.5 C19.785,1.5 21.36,2.6625 21.915,4.32 C23.1525,4.7775 24,5.9625 24,7.3125 C24,9.03 22.605,10.455 20.895,10.5 L15.1875,10.5 Z M18,3 C16.77,3 15.69,3.8775 15.435,5.0775 L15.33,5.5575 L14.85,5.655 C14.07,5.8125 13.5,6.51 13.5,7.305 C13.5,8.235 14.2575,9 15.1875,9 L20.8725,9 C21.7575,8.9775 22.5,8.2125 22.5,7.305 C22.5,6.51 21.93,5.8125 21.15,5.655 L20.67,5.5575 L20.565,5.0775 C20.31,3.8775 19.23,3 18,3 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M3,10.5 L4.5,10.5 L4.5,9 C4.5,6.93 6.18,5.25 8.25,5.25 L11.25,5.25 L11.25,3.75 L8.25,3.75 C5.355,3.75 3,6.105 3,9 L3,10.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M7.5,12.75 L3,12.75 C2.175,12.75 1.5,13.425 1.5,14.25 L1.5,21.75 C1.5,22.575 2.175,23.25 3,23.25 L7.5,23.25 C8.325,23.25 9,22.575 9,21.75 L9,14.25 C9,13.425 8.325,12.75 7.5,12.75 Z M7.5,14.25 L7.5,15.75 L3,15.75 L3,14.25 L7.5,14.25 Z M7.5,17.25 L7.5,18.75 L3,18.75 L3,17.25 L7.5,17.25 Z M3,21.75 L3,20.25 L7.5,20.25 L7.5,21.75 L3,21.75 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <g id="_Transparent_Rectangle_">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>continuous-integration</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-Cloud/-Devops" transform="translate(-190, -49)">
+            <g id="continuous-integration" transform="translate(190, 49)">
+                <rect id="Rectangle-Copy-61" fill="#EE5396" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M23.925,11.625 L19.65,4.125 C19.425,3.9 19.2,3.75 18.975,3.75 L5.025,3.75 C4.8,3.75 4.575,3.9 4.425,4.125 L0.15,11.625 C0,11.775 0,11.85 0,12 C0,12.15 0,12.225 0.075,12.375 L4.35,19.875 C4.575,20.1 4.8,20.25 5.025,20.25 L18.9,20.25 C19.2,20.25 19.425,20.1 19.575,19.875 L23.85,12.375 C24,12.225 24,12.15 24,12 C24,11.85 24,11.775 23.925,11.625 Z M13.35,11.25 L7.35,11.25 L10.35,6 L13.35,11.25 Z M11.625,5.25 L17.625,5.25 L14.625,10.5 L11.625,5.25 Z M13.35,12.75 L10.35,18 L7.35,12.75 L13.35,12.75 Z M14.625,13.5 L17.625,18.75 L11.625,18.75 L14.625,13.5 Z M15.9,12.75 L21.9,12.75 L18.9,18 L15.9,12.75 Z M15.9,11.25 L18.9,6 L21.9,11.25 L15.9,11.25 Z M5.475,5.25 L9,5.25 L5.55,11.25 L2.025,11.25 L5.475,5.25 Z M5.475,18.75 L2.025,12.75 L5.55,12.75 L9,18.75 L5.475,18.75 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_x3C_Transparent_Rectangle_x3E__589_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

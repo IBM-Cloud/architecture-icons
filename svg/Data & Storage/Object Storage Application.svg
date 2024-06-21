@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Object Storage Application </title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Storage" transform="translate(-670, -49)">
+            <g id="object-storage(6)" transform="translate(670, 49)">
+                <polygon id="Fill-4" fill="#0F62FE" points="0 48 48 48 48 0 0 0"></polygon>
+                <path d="M33,27 L31.5,27 L31.5,28.5 L33,28.5 L33,33 L15,33 L15,28.5 L22.5,28.5 L22.5,27 L15,27 C14.1719669,27.0009506 13.5009506,27.6719669 13.5,28.5 L13.5,33 C13.5009506,33.8280331 14.1719669,34.4990494 15,34.5 L33,34.5 C33.8280331,34.4990494 34.4990494,33.8280331 34.5,33 L34.5,28.5 C34.4990494,27.6719669 33.8280331,27.0009506 33,27 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="17.25" cy="30.75" r="1"></circle>
+                <path d="M34.5,18 L28.5,18 L28.5,22.5 L24,22.5 L24,28.5 L30,28.5 L30,24 L34.5,24 L34.5,18 Z M28.5,27 L25.5,27 L25.5,24 L28.5,24 L28.5,27 Z M33,22.5 L30,22.5 L30,19.5 L33,19.5 L33,22.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M25.5,19.5 L19.5,19.5 L19.5,13.5 L25.5,13.5 L25.5,19.5 Z M21,18 L24,18 L24,15 L21,15 L21,18 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="_Transparent_Rectangle_" x="12" y="12" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

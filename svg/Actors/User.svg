@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>User</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-887, -18)">
+            <g id="User" transform="translate(887, 18)">
+                <rect id="Rectangle-Copy-10" fill="#000000" x="0" y="0" width="48" height="48" rx="24"></rect>
+                <g id="user" transform="translate(12, 12)">
+                    <path d="M12,3 C14.0710678,3 15.75,4.67893219 15.75,6.75 C15.75,8.82106781 14.0710678,10.5 12,10.5 C9.92893219,10.5 8.25,8.82106781 8.25,6.75 C8.25,4.67893219 9.92893219,3 12,3 M12,1.5 C9.10050506,1.5 6.75,3.85050506 6.75,6.75 C6.75,9.64949494 9.10050506,12 12,12 C14.8994949,12 17.25,9.64949494 17.25,6.75 C17.25,5.35761343 16.6968766,4.02225539 15.7123106,3.0376894 C14.7277446,2.05312341 13.3923866,1.5 12,1.5 L12,1.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M19.5,22.5 L18,22.5 L18,18.75 C18,17.7554382 17.6049118,16.801611 16.9016504,16.0983496 C16.198389,15.3950882 15.2445618,15 14.25,15 L9.75,15 C7.67893219,15 6,16.6789322 6,18.75 L6,22.5 L4.5,22.5 L4.5,18.75 C4.5,15.8505051 6.85050506,13.5 9.75,13.5 L14.25,13.5 C17.1494949,13.5 19.5,15.8505051 19.5,18.75 L19.5,22.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

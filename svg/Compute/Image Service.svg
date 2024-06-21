@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>image-service</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="image-service">
+            <rect id="Rectangle" stroke="#979797" fill="#198038" x="0.5" y="0.5" width="47" height="47"></rect>
+            <g transform="translate(12, 12)">
+                <path d="M21,15 L19.5,15 L19.5,16.5 L21,16.5 L21,21 L3,21 L3,16.5 L4.5,16.5 L4.5,15 L3,15 C2.17198405,15.0009918 1.50099183,15.6719841 1.5,16.5 L1.5,21 C1.50099183,21.8280159 2.17198405,22.4990082 3,22.5 L21,22.5 C21.8280159,22.4990082 22.4990082,21.8280159 22.5,21 L22.5,16.5 C22.4990082,15.6719841 21.8280159,15.0009918 21,15 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="5.25" cy="18.75" r="1"></circle>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="9.75" y="3" width="1.5" height="6"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="6.75" y="3" width="1.5" height="6"></rect>
+                <path d="M15.75,9 L14.25,9 C13.4219327,8.9991319 12.7508681,8.32806728 12.75,7.5 L12.75,4.5 C12.7508681,3.67193272 13.4219327,3.0008681 14.25,3 L15.75,3 C16.5780673,3.0008681 17.2491319,3.67193272 17.25,4.5 L17.25,7.5 C17.2491319,8.32806728 16.5780673,8.9991319 15.75,9 L15.75,9 Z M14.25,4.5 L14.25,7.5 L15.75,7.5 L15.75,4.5 L14.25,4.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="15.75" y="10.5" width="1.5" height="6"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="6.75" y="10.5" width="1.5" height="6"></rect>
+                <path d="M12.75,16.5 L11.25,16.5 C10.4219327,16.4991319 9.7508681,15.8280673 9.75,15 L9.75,12 C9.7508681,11.1719327 10.4219327,10.5008681 11.25,10.5 L12.75,10.5 C13.5780673,10.5008681 14.2491319,11.1719327 14.25,12 L14.25,15 C14.2491319,15.8280673 13.5780673,16.4991319 12.75,16.5 Z M11.25,12 L11.25,15 L12.75,15 L12.75,12 L11.25,12 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

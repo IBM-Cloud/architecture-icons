@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>flow-logs-vpc</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-Cloud-/-Observability" transform="translate(-560, -48)">
+            <g id="flow-logs-vpc" transform="translate(560, 48)">
+                <rect id="Rectangle-Copy-28" fill="#009D9A" x="0" y="0" width="48" height="48"></rect>
+                <g id="flow-logs-vpc(1)" transform="translate(12, 12)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="13.5" y="14.25" width="9" height="1.5"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="13.5" y="17.25" width="9" height="1.5"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="13.5" y="20.25" width="6" height="1.5"></rect>
+                    <path d="M18,3 C16.6358743,3.00414528 15.4466288,3.92893247 15.106575,5.25 L9,5.25 L9,3 L3,3 L3,9 L9,9 L9,6.75 L15.106575,6.75 C15.1763809,7.01844001 15.2836336,7.27571503 15.425175,7.51425 L7.51425,15.425175 C7.05699686,15.1496763 6.53382791,15.0027796 6,15 C4.43955118,14.9941186 3.13515968,16.1854863 2.99997215,17.7400793 C2.86478461,19.2946723 3.94394868,20.6933141 5.48198944,20.9568777 C7.0200302,21.2204412 8.50329894,20.2609059 8.893425,18.75 L12,18.75 L12,17.25 L8.893425,17.25 C8.82361906,16.98156 8.71636643,16.724285 8.574825,16.48575 L16.48575,8.574825 C16.9430031,8.85032369 17.4661721,8.99722041 18,9 C19.6568542,9 21,7.65685425 21,6 C21,4.34314575 19.6568542,3 18,3 Z M7.5,7.5 L4.5,7.5 L4.5,4.5 L7.5,4.5 L7.5,7.5 Z M6,19.5 C5.17157288,19.5 4.5,18.8284271 4.5,18 C4.5,17.1715729 5.17157288,16.5 6,16.5 C6.82842712,16.5 7.5,17.1715729 7.5,18 C7.4990494,18.8280331 6.82803305,19.4990494 6,19.5 Z M18,7.5 C17.1715729,7.5 16.5,6.82842712 16.5,6 C16.5,5.17157288 17.1715729,4.5 18,4.5 C18.8284271,4.5 19.5,5.17157288 19.5,6 C19.4990494,6.82803305 18.8280331,7.4990494 18,7.5 L18,7.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

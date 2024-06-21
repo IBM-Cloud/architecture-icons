@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Back End Router Group Copy</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-961, -76)">
+            <g id="Back-End-Router-Group-Copy" transform="translate(961, 77)">
+                <g id="Group-3">
+                    <g id="Group-2-Copy" transform="translate(0, 8.6328)" fill="#1192E8" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                    </g>
+                    <polyline id="Path-2" stroke="#1192E8" points="12 3.6328125 52.9988894 3.6328125 52.9988894 49"></polyline>
+                    <polyline id="Path-2" stroke="#1192E8" points="18 0 57 0 57 43"></polyline>
+                </g>
+                <g id="router" transform="translate(11, 18.6328)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="15.75 5.25 12 1.5 8.25 5.25 9.30675 6.31425 11.25 4.38525 11.25 9.75 12.75 9.75 12.75 4.3455 14.69325 6.31425"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="15.75 18.75 12 22.5 8.25 18.75 9.30675 17.68575 11.25 19.61475 11.25 14.25 12.75 14.25 12.75 19.6545 14.69325 17.68575"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="18 8.25 14.25 12 18 15.75 19.06425 14.69325 17.13525 12.75 22.5 12.75 22.5 11.25 17.0955 11.25 19.06425 9.30675"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="6 8.25 9.75 12 6 15.75 4.93575 14.69325 6.86475 12.75 1.5 12.75 1.5 11.25 6.9045 11.25 4.93575 9.30675"></polygon>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

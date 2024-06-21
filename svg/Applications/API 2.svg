@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>API 2</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-119, -81)">
+            <g id="API-2" transform="translate(119, 81)">
+                <rect id="Rectangle-Copy-7" fill="#A56EFF" x="0" y="0" width="48" height="48" rx="24"></rect>
+                <g id="API--1" transform="translate(12, 12)">
+                    <path d="M6,6.75 L3,6.75 C2.17157288,6.75 1.5,7.42157288 1.5,8.25 L1.5,17.25 L3,17.25 L3,13.5 L6,13.5 L6,17.25 L7.5,17.25 L7.5,8.25 C7.5,7.42157288 6.82842712,6.75 6,6.75 Z M3,12 L3,8.25 L6,8.25 L6,12 L3,12 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="16.5 8.25 18.75 8.25 18.75 15.75 16.5 15.75 16.5 17.25 22.5 17.25 22.5 15.75 20.25 15.75 20.25 8.25 22.5 8.25 22.5 6.75 16.5 6.75"></polygon>
+                    <path d="M10.5,17.25 L9,17.25 L9,6.75 L13.5,6.75 C14.3284271,6.75 15,7.42157288 15,8.25 L15,12 C15,12.8284271 14.3284271,13.5 13.5,13.5 L10.5,13.5 L10.5,17.25 Z M10.5,12 L13.5,12 L13.5,8.25 L10.5,8.25 L10.5,12 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

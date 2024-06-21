@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mysql</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Data-" transform="translate(-1096, -49)">
+            <g id="mysql" transform="translate(1096, 49)">
+                <rect id="Rectangle-Copy-19" fill="#0F62FE" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 11)">
+                    <path d="M21.185325,8.9436 L23.566425,8.9436 L20.08155,19.3971 C19.8516,20.098425 19.5264,20.616225 19.1067,20.949825 C18.687,21.28305 18.0864,21.450075 17.304225,21.450075 L15.717075,21.450075 L15.717075,19.466325 L17.42505,19.466325 L17.735625,18.465825 L14.561325,8.9436 L17.097675,8.9436 L18.42555,13.170075 L19.08105,15.79215 L19.184325,15.79215 L19.85745,13.170075 L21.185325,8.9436 L21.185325,8.9436 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="10.66335 10.09935 10.6113 10.09935 9.7317 11.859 7.385775 16.1199 5.091825 11.87625 4.176975 9.9789 4.12575 9.9789 4.12575 18 1.658925 18 1.658925 5.95935 4.43625 5.95935 7.385775 11.6001 7.4202 11.6001 10.3359 5.95935 13.1301 5.95935 13.1301 18 10.66335 18"></polygon>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

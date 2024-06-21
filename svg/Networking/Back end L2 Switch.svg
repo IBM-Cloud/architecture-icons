@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Back end L2 Switch</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-182, -20)">
+            <g id="Back-end-L2-Switch" transform="translate(182, 20)">
+                <rect id="Rectangle-Copy-7" fill="#878D96" x="0" y="0" width="48" height="48"></rect>
+                <g id="switch-layer-2" transform="translate(12, 12)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12 19.5 12 18 4.3725 18 6.3075 16.0575 5.25 15 1.5 18.75 5.25 22.5 6.3075 21.4425 4.3725 19.5"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12 10.5 12 9 4.3725 9 6.3075 7.0575 5.25 6 1.5 9.75 5.25 13.5 6.3075 12.4425 4.3725 10.5"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12 4.5 12 6 19.6275 6 17.6925 7.9425 18.75 9 22.5 5.25 18.75 1.5 17.6925 2.5575 19.6275 4.5"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12 13.5 12 15 19.6275 15 17.6925 16.9425 18.75 18 22.5 14.25 18.75 10.5 17.6925 11.5575 19.6275 13.5"></polygon>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

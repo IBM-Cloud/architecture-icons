@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>instance--bx</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="instance--bx">
+            <g id="Sattelite-v2-Icon-Copy-16" fill="#198038">
+                <polygon id="Fill-4" points="0 48 48 48 48 0 0 0"></polygon>
+            </g>
+            <g transform="translate(12, 12)">
+                <path d="M9,3.75 C8.99863597,2.50792475 7.99207525,1.50136403 6.75,1.5 L3,1.5 L3,11.25 L6.75,11.25 C7.99207525,11.248636 8.99863597,10.2420752 9,9 L9,7.875 C8.99833509,7.31964616 8.78976289,6.78484563 8.415,6.375 C8.78977535,5.96516212 8.99834951,5.43035658 9,4.875 L9,3.75 Z M4.5,3 L6.75,3 C7.16399087,3.00053714 7.49946286,3.33600913 7.5,3.75 L7.5,4.913475 C7.49814843,5.10835749 7.4172668,5.29414048 7.27587898,5.42827511 C7.13449116,5.56240973 6.94470998,5.63340455 6.75,5.625 L4.5,5.625 L4.5,3 Z M7.5,9 C7.49962785,9.41405931 7.16405931,9.74962785 6.75,9.75 L4.5,9.75 L4.5,7.125 L6.75,7.125 C7.16405931,7.12537215 7.49962785,7.46094069 7.5,7.875 L7.5,9 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="16.5 3.75 15 3.75 13.5 6.67275 12 3.75 10.5 3.75 12.67875 7.5 10.5 11.25 12 11.25 13.5 8.40075 15 11.25 16.5 11.25 14.3235 7.5"></polygon>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6.75" cy="20.25" r="1"></circle>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="1.5" y="13.5" width="3" height="1.5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="6" y="13.5" width="3" height="1.5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="10.5" y="13.5" width="3" height="1.5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="15" y="13.5" width="3" height="1.5"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="19.5" y="13.5" width="3" height="1.5"></rect>
+                <path d="M19.5,23.25 L4.5,23.25 C3.67193272,23.2491319 3.0008681,22.5780673 3,21.75 L3,18.75 C3.0008681,17.9219327 3.67193272,17.2508681 4.5,17.25 L19.5,17.25 C20.3280673,17.2508681 20.9991319,17.9219327 21,18.75 L21,21.75 C20.9991319,22.5780673 20.3280673,23.2491319 19.5,23.25 Z M4.5,18.75 L4.5,21.75 L19.5,21.75 L19.5,18.75 L4.5,18.75 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

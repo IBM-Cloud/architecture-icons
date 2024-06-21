@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Back End Router</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-245, -20)">
+            <g id="Back-End-Router" transform="translate(245, 20)">
+                <rect id="Rectangle" fill="#878D96" fill-rule="nonzero" x="0" y="0" width="48" height="48"></rect>
+                <g id="Group" transform="translate(12, 12)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="15.756 5.256 12 1.5 8.256 5.256 9.312 6.312 11.256 4.38 11.256 9.756 12.756 9.756 12.756 4.344 14.688 6.312"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="15.756 18.756 12 22.5 8.256 18.756 9.312 17.688 11.256 19.62 11.256 14.256 12.756 14.256 12.756 19.656 14.688 17.688"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="18 8.256 14.256 12 18 15.756 19.068 14.688 17.136 12.756 22.5 12.756 22.5 11.256 17.1 11.256 19.068 9.312"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="6 8.256 9.756 12 6 15.756 4.932 14.688 6.864 12.756 1.5 12.756 1.5 11.256 6.9 11.256 4.932 9.312"></polygon>
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

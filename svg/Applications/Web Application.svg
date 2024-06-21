@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Web Application</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-396, -81)">
+            <g id="Web-Application" transform="translate(396, 81)">
+                <g id="Virtual-Application-Copy" fill="#A56EFF">
+                    <rect id="Rectangle-Copy-8" x="0" y="0" width="48" height="48" rx="24"></rect>
+                </g>
+                <g id="application--web" transform="translate(11, 12.2888)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="19.5" y="1.5" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="19.5" y="6" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="15" y="1.5" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="15" y="6" width="3" height="3"></rect>
+                    <path d="M21,12 L21,16.5 L3,16.5 L3,4.5 L12,4.5 L12,3 L3,3 C2.17157288,3 1.5,3.67157288 1.5,4.5 L1.5,16.5 C1.5,17.3284271 2.17157288,18 3,18 L9,18 L9,21 L6,21 L6,22.5 L18,22.5 L18,21 L15,21 L15,18 L21,18 C21.8284271,18 22.5,17.3284271 22.5,16.5 L22.5,12 L21,12 Z M13.5,21 L10.5,21 L10.5,18 L13.5,18 L13.5,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

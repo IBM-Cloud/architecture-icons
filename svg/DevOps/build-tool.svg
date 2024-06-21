@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>build-tool</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-Cloud/-Devops" transform="translate(-58, -49)">
+            <g id="build-tool" transform="translate(58, 49)">
+                <rect id="Rectangle-Copy-62" fill="#EE5396" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M21,10.5 L20.25,10.5 L20.25,5.25 C20.25,4.425 19.575,3.75 18.75,3.75 L14.25,3.75 L14.25,5.25 L18.75,5.25 L18.75,10.5 L18,10.5 C17.175,10.5 16.5,11.175 16.5,12 L16.5,18.75 L7.425,18.75 C7.125,17.7 6.3,16.875 5.25,16.575 L5.25,5.25 L9.9,5.25 L7.95,7.2 L9,8.25 L12.75,4.5 L9,0.75 L7.95,1.8 L9.9,3.75 L5.25,3.75 C4.425,3.75 3.75,4.425 3.75,5.25 L3.75,16.575 C2.475,16.875 1.5,18.075 1.5,19.5 C1.5,21.15 2.85,22.5 4.5,22.5 C5.925,22.5 7.05,21.525 7.425,20.25 L16.5,20.25 L16.5,21 C16.5,21.825 17.175,22.5 18,22.5 L21,22.5 C21.825,22.5 22.5,21.825 22.5,21 L22.5,12 C22.5,11.175 21.825,10.5 21,10.5 Z M4.5,21 C3.675,21 3,20.325 3,19.5 C3,18.675 3.675,18 4.5,18 C5.325,18 6,18.675 6,19.5 C6,20.325 5.325,21 4.5,21 Z M18,21 L18,12 L21,12 L21,21 L18,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_x3C_Transparent_Rectangle_x3E__589_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

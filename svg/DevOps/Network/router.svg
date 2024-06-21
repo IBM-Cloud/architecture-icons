@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>router</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-892, -86)">
+            <g id="router" transform="translate(892, 86)">
+                <rect id="Rectangle-Copy-21" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)" fill="#FFFFFF" fill-rule="nonzero" id="Path">
+                    <polygon points="16.2857143 4.28571429 12 0 7.71428571 4.28571429 8.922 5.502 11.1428571 3.29742857 11.1428571 9.42857143 12.8571429 9.42857143 12.8571429 3.252 15.078 5.502"></polygon>
+                    <polygon points="16.2857143 19.7142857 12 24 7.71428571 19.7142857 8.922 18.498 11.1428571 20.7025714 11.1428571 14.5714286 12.8571429 14.5714286 12.8571429 20.748 15.078 18.498"></polygon>
+                    <polygon points="18.8571429 7.71428571 14.5714286 12 18.8571429 16.2857143 20.0734286 15.078 17.8688571 12.8571429 24 12.8571429 24 11.1428571 17.8234286 11.1428571 20.0734286 8.922"></polygon>
+                    <polygon points="5.14285714 7.71428571 9.42857143 12 5.14285714 16.2857143 3.92657143 15.078 6.13114286 12.8571429 0 12.8571429 0 11.1428571 6.17657143 11.1428571 3.92657143 8.922"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>archive</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Storage" transform="translate(-56, -48)">
+            <g id="archive" transform="translate(56.5, 48.9362)">
+                <polygon id="Fill-4" fill="#0F62FE" points="0 48 48 48 48 0 0 0"></polygon>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="22" y="26.3137773" width="3" height="1.5"></rect>
+                <path d="M16,13.5637773 L16,33.0637773 C16,33.8922045 16.6715729,34.5637773 17.5,34.5637773 L29.5,34.5637773 C30.3284271,34.5637773 31,33.8922045 31,33.0637773 L31,13.5637773 L16,13.5637773 Z M29.5,33.0637773 L17.5,33.0637773 L17.5,24.0637773 L29.5,24.0637773 L29.5,33.0637773 Z M29.5,22.5637773 L17.5,22.5637773 L17.5,19.5637773 L29.5,19.5637773 L29.5,22.5637773 Z M17.5,18.0637773 L17.5,15.0637773 L29.5,15.0637773 L29.5,18.0637773 L17.5,18.0637773 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="_Transparent_Rectangle_" x="11.5" y="12.0637773" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

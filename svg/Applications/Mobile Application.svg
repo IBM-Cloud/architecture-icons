@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Mobile Application</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-326, -81)">
+            <g id="Mobile-Application" transform="translate(326, 81)">
+                <g id="Virtual-Application-Copy" fill="#A56EFF">
+                    <rect id="Rectangle-Copy-8" x="0" y="0" width="48" height="48" rx="24"></rect>
+                </g>
+                <g id="application--mobile" transform="translate(12, 12)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="17.25" y="5.25" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="17.25" y="9.75" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="12.75" y="5.25" width="3" height="3"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="12.75" y="9.75" width="3" height="3"></rect>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="10.875" cy="18.375" r="1.125"></circle>
+                    <path d="M15.75,22.5 L6,22.5 C5.17196695,22.4990494 4.5009506,21.8280331 4.5,21 L4.5,3 C4.5009506,2.17196695 5.17196695,1.5009506 6,1.5 L15.75,1.5 L15.75,3 L6,3 L6,21 L15.75,21 L15.75,15 L17.25,15 L17.25,21 C17.2490494,21.8280331 16.5780331,22.4990494 15.75,22.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

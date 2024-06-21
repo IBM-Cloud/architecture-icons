@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Cloud Registry</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Compute" transform="translate(-1451, -48)">
+            <g id="Cloud-Registry" transform="translate(1451, 48)">
+                <g id="Object-Storage-Slisor-Copy-2" fill="#198038">
+                    <rect id="Rectangle-Copy-5" x="0" y="0" width="48" height="48"></rect>
+                </g>
+                <g id="cloud-registry(1)" transform="translate(12, 12)">
+                    <path d="M21,22.5 L17.25,22.5 C16.4219669,22.4990494 15.7509506,21.8280331 15.75,21 L15.75,17.25 C15.7509506,16.4219669 16.4219669,15.7509506 17.25,15.75 L21,15.75 C21.8280331,15.7509506 22.4990494,16.4219669 22.5,17.25 L22.5,21 C22.4990494,21.8280331 21.8280331,22.4990494 21,22.5 Z M17.25,17.25 L17.2491,17.25 L17.25,21 L21,21 L21,17.25 L17.25,17.25 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M12,17.25 L8.25,17.25 C7.42196695,17.2490494 6.7509506,16.5780331 6.75,15.75 L6.75,8.25 C6.7509506,7.42196695 7.42196695,6.7509506 8.25,6.75 L15.75,6.75 C16.5780331,6.7509506 17.2490494,7.42196695 17.25,8.25 L17.25,12 L15.75,12 L15.75,8.25 L8.25,8.25 L8.25,15.75 L12,15.75 L12,17.25 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M12,22.5 L3,22.5 C2.17196695,22.4990494 1.5009506,21.8280331 1.5,21 L1.5,3 C1.5009506,2.17196695 2.17196695,1.5009506 3,1.5 L21,1.5 C21.8280331,1.5009506 22.4990494,2.17196695 22.5,3 L22.5,12 L21,12 L21,3 L3,3 L3,21 L12,21 L12,22.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

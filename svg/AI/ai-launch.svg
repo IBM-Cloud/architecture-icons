@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ai-launch</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/AI" transform="translate(-729, -48)">
+            <g id="ai-launch" transform="translate(729, 48.5799)">
+                <g id="IBM®-watsonx.governance™-Copy-9" fill="#A56EFF">
+                    <polygon id="Box" points="0 48 48 48 48 0 0 0"></polygon>
+                </g>
+                <g transform="translate(11.5055, 13.4201)">
+                    <path d="M11.25,14.25 L10.189425,15.310575 L12.87885,18 L3,18 L3,8.25 L1.5,8.25 L1.5,18 C1.5,18.82845 2.17155,19.5 3,19.5 L12.878925,19.5 L10.1895,22.189425 L11.250075,23.25 L15.750075,18.75 L11.250075,14.25 L11.25,14.25 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="18 13.5 18 12 19.5 12 19.5 3 18 3 18 1.5 22.5 1.5 22.5 3 21 3 21 12 22.5 12 22.5 13.5"></polygon>
+                    <path d="M15.75,13.5 L17.25,13.5 L13.125,1.5 L10.875,1.5066 L6.75,13.5 L8.25,13.5 L9.249975,10.5 L14.7501,10.5 L15.750075,13.5 L15.75,13.5 Z M9.75,9 L12,2.25 L14.25,9 L9.75,9 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" transform="translate(12, 12) rotate(180) translate(-12, -12)" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

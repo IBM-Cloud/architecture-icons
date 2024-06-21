@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>load-balancer--vpc</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Network" transform="translate(-1427, -24)">
+            <g id="load-balancer--vpc" transform="translate(1427, 24)">
+                <rect id="Rectangle" fill="#1192E8" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M6,22.5 L1.5,22.5 L1.5,18 L6,18 L6,22.5 Z M3,21 L4.5,21 L4.5,19.5 L3,19.5 L3,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M14.25,22.5 L9.75,22.5 L9.75,18 L14.25,18 L14.25,22.5 Z M11.25,21 L12.75,21 L12.75,19.5 L11.25,19.5 L11.25,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M22.5,22.5 L18,22.5 L18,18 L22.5,18 L22.5,22.5 Z M19.5,21 L21,21 L21,19.5 L19.5,19.5 L19.5,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M12,7.5 C10.3431458,7.5 9,6.15685425 9,4.5 C9,2.84314575 10.3431458,1.5 12,1.5 C13.6568542,1.5 15,2.84314575 15,4.5 C14.99814,6.15608322 13.6560832,7.49814004 12,7.5 L12,7.5 Z M12,3 C11.1715729,3 10.5,3.67157288 10.5,4.5 C10.5,5.32842712 11.1715729,6 12,6 C12.8284271,6 13.5,5.32842712 13.5,4.5 C13.4991732,3.67191561 12.8280844,3.00082684 12,3 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M19.5,12 L15.75,12 C14.0939168,11.99814 12.75186,10.6560832 12.75,9 L11.25,9 C11.24814,10.6560832 9.90608322,11.99814 8.25,12 L4.5,12 C3.67196695,12.0009506 3.0009506,12.6719669 3,13.5 L3,16.5 L4.5,16.5 L4.5,13.5 L8.25,13.5 C9.35850358,13.4996715 10.4274708,13.0881191 11.25,12.345 L11.25,16.5 L12.75,16.5 L12.75,12.345 C13.5725292,13.0881191 14.6414964,13.4996715 15.75,13.5 L19.5,13.5 L19.5,16.5 L21,16.5 L21,13.5 C20.9990494,12.6719669 20.3280331,12.0009506 19.5,12 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

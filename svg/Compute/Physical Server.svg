@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Physical Server</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Compute" transform="translate(-1384, -48)">
+            <g id="Physical-Server" transform="translate(1384, 48)">
+                <g id="Virtual-Server-Classic-Copy" fill="#198038">
+                    <polygon id="Rectangle" points="0 48 48 48 48 0 0 0"></polygon>
+                </g>
+                <g id="bare-metal-server--01(2)" transform="translate(12, 12)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12.75 21 12.75 16.5 11.25 16.5 11.25 21 3.75 21 3.75 22.5 20.25 22.5 20.25 21"></polygon>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="6.75" cy="12" r="1"></circle>
+                    <path d="M19.5,15 L4.5,15 C3.67196695,14.9990494 3.0009506,14.3280331 3,13.5 L3,10.5 C3.0009506,9.67196695 3.67196695,9.0009506 4.5,9 L19.5,9 C20.3280331,9.0009506 20.9990494,9.67196695 21,10.5 L21,13.5 C20.9990494,14.3280331 20.3280331,14.9990494 19.5,15 Z M4.5,10.5 L4.5,13.5 L19.5,13.5 L19.5,10.5 L4.5,10.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

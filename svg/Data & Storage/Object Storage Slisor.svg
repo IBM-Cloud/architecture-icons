@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Object Storage Slisor</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Storage" transform="translate(-807, -49)">
+            <g id="Object-Storage-Slisor" transform="translate(807, 49)">
+                <rect id="Rectangle-Copy-5" fill="#0F62FE" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <path d="M21,15 L19.5,15 L19.5,16.5 L21,16.5 L21,21 L3,21 L3,16.5 L4.5,16.5 L4.5,15 L3,15 C2.17198405,15.0009918 1.50099183,15.6719841 1.5,16.5 L1.5,21 C1.50099183,21.8280159 2.17198405,22.4990082 3,22.5 L21,22.5 C21.8280159,22.4990082 22.4990082,21.8280159 22.5,21 L22.5,16.5 C22.4990082,15.6719841 21.8280159,15.0009918 21,15 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="5.25" cy="18.75" r="1"></circle>
+                    <path d="M12,16.5 C11.8835502,16.5 11.7686955,16.4729237 11.664525,16.420875 L4.164525,12.670875 L4.835475,11.329125 L12,14.911575 L19.164525,11.329125 L19.835475,12.670875 L12.335475,16.420875 C12.2313045,16.4729237 12.1164498,16.5 12,16.5 L12,16.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M12,12 C11.8835502,12 11.7686955,11.9729237 11.664525,11.920875 L4.164525,8.170875 C3.91037694,8.0438527 3.74982596,7.78412304 3.74982596,7.5 C3.74982596,7.21587696 3.91037694,6.9561473 4.164525,6.829125 L11.664525,3.079125 C11.8757283,2.97360336 12.1242717,2.97360336 12.335475,3.079125 L19.835475,6.829125 C20.0896231,6.9561473 20.250174,7.21587696 20.250174,7.5 C20.250174,7.78412304 20.0896231,8.0438527 19.835475,8.170875 L12.335475,11.920875 C12.2313045,11.9729237 12.1164498,12 12,12 Z M6.17685,7.5 L12,10.411575 L17.82315,7.5 L12,4.588425 L6.17685,7.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

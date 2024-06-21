@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>file-system</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Storage" transform="translate(-465, -48)">
+            <g id="file-system" transform="translate(465, 48.9362)">
+                <g id="data-blob" fill="#0F62FE">
+                    <polygon id="Fill-4" points="0 48 48 48 48 0 0 0"></polygon>
+                </g>
+                <g id="volume--file-storage" transform="translate(11.5, 12.0638)">
+                    <path d="M19.28025,12.96975 L15.53025,9.21975 C15.3896305,9.07908797 15.1988961,9 15,9 L10.5,9 C9.67157288,9 9,9.67157288 9,10.5 L9,21 C9,21.8284271 9.67157288,22.5 10.5,22.5 L18,22.5 C18.8284271,22.5 19.5,21.8284271 19.5,21 L19.5,13.5 C19.5,13.3011039 19.420912,13.1103695 19.28025,12.96975 Z M17.689275,13.5 L15,13.5 L15,10.810575 L17.689275,13.5 Z M10.5,21 L10.5,10.5 L13.5,10.5 L13.5,13.5 C13.5,14.3284271 14.1715729,15 15,15 L18,15 L18,21 L10.5,21 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M6,20.2499941 L3,20.2499941 C2.17196695,20.2490494 1.5009506,19.5780331 1.5,18.7499941 L1.5,3.74999414 C1.5009506,2.92196695 2.17196695,2.2509506 3,2.24999414 L8.689275,2.24999414 C9.08735669,2.24888406 9.46932933,2.4071233 9.75,2.689425 L12.310725,5.24999414 L21,5.24999414 C21.8280331,5.2509506 22.4990494,5.92196695 22.5,6.74999414 L22.5,12.7499941 L21,12.7499941 L21,6.74999414 L11.689275,6.74999414 L8.689275,3.74999414 L3,3.74999414 L3,18.7499941 L6,18.7499941 L6,20.2499941 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

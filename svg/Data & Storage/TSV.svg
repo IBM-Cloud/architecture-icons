@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TSV</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Cloud-/-Data-" transform="translate(-1228, -49)">
+            <g id="TSV" transform="translate(1228, 49)">
+                <rect id="Rectangle-Copy-15" fill="#0F62FE" x="0" y="0" width="48" height="48"></rect>
+                <g transform="translate(12, 12)">
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="21 6.75 19.5 16.5 18 6.75 16.5 6.75 18.387 17.25 20.613 17.25 22.5 6.75"></polygon>
+                    <path d="M13.5,17.25 L9,17.25 L9,15.75 L13.5,15.75 L13.5,12.75 L10.5,12.75 C9.67191561,12.7491732 9.00082684,12.0780844 9,11.25 L9,8.25 C9.00082684,7.42191561 9.67191561,6.75082684 10.5,6.75 L15,6.75 L15,8.25 L10.5,8.25 L10.5,11.25 L13.5,11.25 C14.3280844,11.2508268 14.9991732,11.9219156 15,12.75 L15,15.75 C14.9991732,16.5780844 14.3280844,17.2491732 13.5,17.25 L13.5,17.25 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="1.5 8.25 3.75 8.25 3.75 17.25 5.25 17.25 5.25 8.25 7.5 8.25 7.5 6.75 1.5 6.75"></polygon>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

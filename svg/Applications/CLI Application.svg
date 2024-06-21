@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CLI Application</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM/Cloud/Actors" transform="translate(-258, -81)">
+            <g id="CLI-Application" transform="translate(258, 81)">
+                <rect id="Rectangle-Copy-3" fill="#A56EFF" x="0" y="0" width="48" height="48" rx="24"></rect>
+                <g id="terminal(3)-copy" transform="translate(12, 12)">
+                    <path d="M19.5,3.0075 L4.5,3.0075 C3.67157288,3.0075 3,3.67907288 3,4.5075 L3,19.5075 C3,20.3359271 3.67157288,21.0075 4.5,21.0075 L19.5,21.0075 C20.3284271,21.0075 21,20.3359271 21,19.5075 L21,4.5075 C21,3.67907288 20.3284271,3.0075 19.5,3.0075 Z M19.5,4.5075 L19.5,7.5075 L4.5,7.5075 L4.5,4.5075 L19.5,4.5075 Z M4.5,19.5075 L4.5,9.0075 L19.5,9.0075 L19.5,19.5075 L4.5,19.5075 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="8.07 12.135 10.185 14.2575 8.07 16.38 9.1275 17.4375 12.3075 14.2575 9.1275 11.0775"></polygon>
+                    <rect id="_Transparent_Rectangle_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

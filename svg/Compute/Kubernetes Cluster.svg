@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Kubernetes Cluster</title>
+    <g id="V2-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IBM-/-Core-/-Compute-/-Containers" transform="translate(-99, -48)">
+            <g id="Kubernetes-Cluster" transform="translate(99.5, 48.9362)">
+                <g fill="#198038" id="Rectangle">
+                    <polygon points="0 48 48 48 48 0 0 0"></polygon>
+                </g>
+                <g id="ibm-cloud--kubernetes-service(1)" transform="translate(11.5, 12.0638)">
+                    <path d="M12,17.25 C11.85,17.25 11.7,17.25 11.625,17.175 L7.875,14.925 C7.65,14.775 7.5,14.55 7.5,14.25 L7.5,9.75 C7.5,9.45 7.65,9.225 7.875,9.075 L11.625,6.825 C11.7,6.75 11.85,6.75 12,6.75 C12.15,6.75 12.3,6.75 12.375,6.825 L16.125,9.075 C16.35,9.225 16.5,9.45 16.5,9.75 L16.5,14.25 C16.5,14.55 16.35,14.775 16.125,14.925 L12.375,17.175 C12.3,17.25 12.15,17.25 12,17.25 Z M9,13.8 L12,15.6 L15,13.8 L15,10.125 L12,8.325 L9,10.125 L9,13.8 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M12,23.25 C11.85,23.25 11.775,23.25 11.625,23.175 L2.625,17.925 C2.4,17.775 2.25,17.55 2.25,17.25 L2.25,6.75 C2.25,6.45 2.4,6.225 2.625,6.075 L11.625,0.825 C11.775,0.75 11.85,0.75 12,0.75 C12.15,0.75 12.225,0.75 12.375,0.825 L21.375,6.075 L20.625,7.35 L12,2.4 L3.75,7.2 L3.75,16.875 L12,21.675 L20.25,16.875 L20.25,11.25 L21.75,11.25 L21.75,17.25 C21.75,17.55 21.6,17.775 21.375,17.925 L12.375,23.175 C12.225,23.25 12.15,23.25 12,23.25 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="_x3C_Transparent_Rectangle_x3E__589_" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
