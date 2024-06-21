@@ -310,10 +310,9 @@ https://github.com/IBM-Cloud/architecture-icons/assets/51208928/94b6be7a-b9d4-49
 
 <details><summary>click here to expand</summary>
 
-> **Important**
-To be updated soon
+### Getting svg icons/files
 
-Link to [folder](/svg) 
+Please find the SVG sfiles under [svg](./svg/) folder.
 
 </details>
 
