@@ -1,3 +1,5 @@
+[![Latest-release](https://img.shields.io/github/v/release/IBM-Cloud/architecture-icons?label=Latest%20release&logo=github)](https://github.com/IBM-Cloud/architecture-icons/releases/latest)
+
 # IBM Cloud Stencils
 
 NOTE: If you are an IBM employee, please go to the [internal repo](https://github.ibm.com/ibmcloud/ibm-cloud-stencils)
