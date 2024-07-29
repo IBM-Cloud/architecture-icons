@@ -271,15 +271,22 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 
 <details><summary>IBM Kubernetes Service in a Classic Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
 
-  ![](images/v2.0/Static/iks_sr_mz_classic.svg)
+  ![](images/v2.0/Static/IKS_SR_MZ_Classic.svg)
 </details>
+
 <details><summary>IBM Kubernetes Service in a VPC Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
 
-  ![](images/v2.0/Static/iks_sr_mz_vpc.svg)
+  ![](images/v2.0/Static/IKS_SR_MZ_VPC.svg)
 </details>
+
 <details><summary>IBM Red Hat OpenShift Service in a Classic Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
 
-  ![](images/v2.0/Static/roks_sr_mz_classic.svg)
+  ![](images/v2.0/Static/ROKS_SR_MZ_Classic.svg)
+</details>
+
+<details><summary>IBM Red Hat OpenShift Service in a VPC Single-Region Multi-Zone environment using v2.0 stencils and latest connector standards</summary>
+
+  ![](images/v2.0/Static/ROKS_SR_MZ_VPC.svg)
 </details>
 
 ### v2.0 Templates
