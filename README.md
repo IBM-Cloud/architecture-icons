@@ -337,7 +337,7 @@ IBM stencils / shapes can be of any of the following formats:
 - Nodes (square shape with icon): are meant to represent standalone components or devices.
 - Actors (round shape with icon): represent roles, functions or attributes played by human users, devices and other entities that interact with any of the above.
 
-This example shows the App VSI deployedTo App Subnet and App VSI deployedOn both the Maint SG and App SG. 
+This example shows the App VSI deployedOn App Subnet and App VSI deployedTo both the Maint SG and App SG.
 ![](images/DeployedTo.png)
 
 Using a non-container group for security group prevents ambiguities as to whether the App VSI is physically in the subnet or a security group if the security group were a container group, however since the security group is a non-container group the App VSI is only physically in the subnet on the diagram.  
