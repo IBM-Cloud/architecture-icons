@@ -370,7 +370,7 @@ Nested container groups should alternate between white and light fill for access
 
   ![](images/Connectors.svg)
   
-Please see the [Connectors file](/drawio/stencils/Connectors.drawio) with draw.io format version of the picture above or import the [IBM Connectors xml library](/drawio/stencils/ibm_connectors.xml).
+Please see the [Connectors file](/drawio/stencils/2.0/Connectors.drawio) with draw.io format version of the picture above or import the [IBM Connectors xml library](/drawio/stencils/2.0/ibm_connectors.xml).
 
 </p>
 </details>
