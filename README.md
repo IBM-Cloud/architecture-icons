@@ -45,7 +45,7 @@ To get IBM Cloud architecture stencils and start sketching diagrams with draw.io
        3. Select either the All-in-one library ([`ibm_all_in_one.xml`](/drawio/stencils/2.0/ibm_all_in_one.xml)) or any of the xml library(ies) of your choice (compute, data, network, etc.).
        4. Go to [Step 3](#3-sketch-diagram-using-the-imported-stencil-libraries-in-the-left-hand-size-of-the-drawio-desktop-app-ui-all-in-one-and-standalone-xmls-include)
    
-        For detailed import instructions watch this video [tutorial](https://test.cloud.ibm.com/docs/writing?topic=writing-diagrams#diagrams-drawio) or follow the [step-by-step tutorial/guide](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step).
+        For detailed import instructions watch this video [tutorial](https://cloud.ibm.com/docs/architecture-framework?topic=architecture-framework-architecture-diagram) or follow the [step-by-step tutorial/guide](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step).
 
        
 
@@ -115,7 +115,7 @@ Several xml files are provided with groups of stencils, however, for convenience
 
 ### Getting stencil libraries compatible with draw.io application
 
-If you need to use 2.0 shapes compatible/importable with/in desktop drawio application, a static version of the stencils has been made available under [drawio/stencils/2.0](/drawio/stencils/2.0) in this repository. To import the libraries (.xmls), follow the instructions in the [below tutorial](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step) or watch this [video tutorial](https://test.cloud.ibm.com/docs/writing?topic=writing-diagrams#diagrams-drawio). Please keep in mind that when the libraries get updated (new, changed and deleted stencils) or new libraries get added/deleted, a [release](https://github.com/IBM-Cloud/architecture-icons/releases) will be published in the repo.
+If you need to use 2.0 shapes compatible/importable with/in desktop drawio application, a static version of the stencils has been made available under [drawio/stencils/2.0](/drawio/stencils/2.0) in this repository. To import the libraries (.xmls), follow the instructions in the [below tutorial](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step) or watch this [video tutorial](https://cloud.ibm.com/docs/architecture-framework?topic=architecture-framework-architecture-diagram). Please keep in mind that when the libraries get updated (new, changed and deleted stencils) or new libraries get added/deleted, a [release](https://github.com/IBM-Cloud/architecture-icons/releases) will be published in the repo.
 
 
 ### 2.0 Examples
