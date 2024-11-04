@@ -1,250 +1,497 @@
 Stencil Name	Alternate Name	Stencil Ocurrence	Stencil Library Name	Stencil Library Display Name	Library Stencil Count
-Access Group	AG	1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Account Group		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Authorization Boundary		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Bare Metal Server	BM	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Bare Metal for VPC		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Chip	CPU / GPU / Driver	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Classic Infrastructure		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Cloud		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Cloud Services		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Credentials		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Data Center	DC	1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Dedicated Host		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Enterprise Network		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-IBM Classic VLAN	VLAN	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-IBM Cloud		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Identity and Access Management		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Instance Group		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Internet		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Internet Services	CIS	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Key Protect		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Kubernetes	IKS	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Microservices		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Network ACL		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Network ACL Rules		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Network Interface	Port	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Network Overlay		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-OpenShift	OCP	1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Physical Server		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Point of Presence	POP	1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Power Virtual Server		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Power Workspace		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Process	WIP	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Public Network		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Region		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Resource Group	RG	1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Secrets Manager	SM	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Security Group	SG	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Security Services		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Service ID		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Subnet		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Virtual Server Classic	VSI	1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Virtual Server VPC		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-VLAN		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-VPC	Virtual Private Network	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-VPC Endpoint		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-VPN Connection		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-VPN Policy		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Z Containers		1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Zone	Data center	1	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
-Admin		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-API		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Application		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Automation Script		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-CLI Application		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Collaboration		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Devices		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Enterprise	Company	1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Flag		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Group		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Laptop	Computer	1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Location		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Meeting		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Micoservices		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Mobile	Phone	1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Mobile Application		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Service Desk		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Service ID		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Tablet		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-User		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Virtual Application		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Web Application		1	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
-Watsonx		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx AI		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx AI Governance Lifecycle		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Assistant		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Code Assistant		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Code Assistant for Z		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Code Assistant for Z Refactor		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Data		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Governance		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watson Discovery		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Governance Tracked		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Governance Untracked		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Launch AI		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Machine Learning		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Launch AI		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Model Tuned		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Orchestrate		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Prompt Session		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watson Studio		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Prompt Template		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Watsonx Tuning		1	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	21
-Bare Metal Server	BM	2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Bare Metal Server for VPC	BM	1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Chip	CPU / GPU / Driver	2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Dedicated Host		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Image Service		1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Instance BX		1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Instance CX		1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Instance Group		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Instance MX		1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Physical Server		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Power Vitural Server		1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Process	WIP	2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Satellite		1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Satellite Config		1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Virtual Server for Classic		1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Virtual Server for VPC	VSI	1	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
-Open Shift		1	 ibm_cloud_containers.xml 	 IBM Cloud / Containers	4
-Kubernetes	IKS	2	 ibm_cloud_containers.xml 	 IBM Cloud / Containers	4
-Container Registry		1	 ibm_cloud_containers.xml 	 IBM Cloud / Containers	4
-Z Container		1	 ibm_cloud_containers.xml 	 IBM Cloud / Containers	4
-Blob		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Cloud Pak for Data		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Cloudant Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Data Backup		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Data Stage		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Database	DB	1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Database Messaging		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-DataStax Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-DB2 Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-DB2 Warehouse		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-EDB Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Elasticseach Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-etcd Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Event Streams		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Mongo Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-MySQL Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-PostgreSQL Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Rabbit Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Reddis Database		1	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
-Ansible		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Artifact Repo		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Build		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Cloud Pak for Integration		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Continuous Delivery		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Continuous Deployment		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Continuous Integration		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Gitlab		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-PreProd Environment		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Production Environment		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Production Regulated Env.		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Production Service		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Source Code Repo		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Test Service		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Testing		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-Toolchain		1	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	16
-API Gateway		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Application Load Balancer	ALB	1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Back-end L2 Switch		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Back-end Router		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-CDN		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Classic Load Balancer		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Direct Link Connect		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Direct Link Dedicated		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-DNS		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-DNS		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Edge Node		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Floating IP	FIP / VIP	1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Gateway		3	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Gateway		3	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Gateway		3	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Global Load Balancer	GLB	1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Hybrid Networking		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-IBM Classic VLAN	VLAN	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Internet		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Internet Services	CIS	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-L2 Switch		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-L3 Switch	Multi-layer switch	1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Load Balancer Listener		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Load Balancer Pool	LB Pool	1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Local Load Balancer	LB	1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-LTE Transmission		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Mail Gateway		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Message Queue		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Network Interface	Port	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Network Load Balancer		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Network Overlay		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Proxy Server		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Public Network		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Public Gateway	PGW	1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Router		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Subnet		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Transit Gateway		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-VLAN		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Voice Router		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-VPC	Virtual Private Network	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-VPC Endpoints		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-VPC Load Balancer		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Wifi Bridge		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Wifi Controller		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Wifi Router		1	 ibm_cloud_network.xml 	 IBM Cloud / Network	45
-Alerting		1	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	7
-Auditing		1	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	7
-Cloud logs		1	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	7
-Flow Logs		1	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	7
-GUI Management		1	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	7
-Monitoring		1	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	7
-Service Management		1	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	7
-App ID		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Bastion Host		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Certificate		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Cloud Pak for Security		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Code Signing Service		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Compliance Center		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Credentials		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Data Diode		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Document Protected		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Document Security		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Document Signed		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Document Unprotected		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Encryption		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Fingerprint		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Firewall		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Hardware Security Module	HSM	1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Identity and Access Management	IAM	2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Intrusion Prevention-Detection		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Key		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Key Protect		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Network ACL		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Network ACL Rules		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Network Admin Control		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-PCN E Node		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-PCN P Node		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-PCN Z Node		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Secrets Manager	SM	2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Security Gateway		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Security Group	SG	2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Security Services		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Session Boarder Control		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Security Group Rules		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Two Factor Authentication	2FA / MFA	1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-User Access Gateway		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-VPN Connection		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-VPN for VPC		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-VPN Gateway		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-VPN Policy		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Wifi Secured		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Wifi Unsecured		1	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
-Archive		1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
-Block Storage Application		1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
-Block Volume		1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
-Data Store		1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
-File Storage Application		1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
-File System		1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
-Object Bucket		1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
-Object Storage Accessor		1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
-Object Storage Slicestor		1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
-Object Storage Application	COS	1	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+Access Group	AG	2	 ibm_all_in_one.xml 	 All-in-One	248
+Account Group		2	 ibm_all_in_one.xml 	 All-in-One	248
+Authorization Boundary		2	 ibm_all_in_one.xml 	 All-in-One	248
+Bare Metal Server	BM	4	 ibm_all_in_one.xml 	 All-in-One	248
+Bare Metal for VPC		2	 ibm_all_in_one.xml 	 All-in-One	248
+Chip	CPU / GPU / Driver	4	 ibm_all_in_one.xml 	 All-in-One	248
+Classic Infrastructure		2	 ibm_all_in_one.xml 	 All-in-One	248
+Cloud		2	 ibm_all_in_one.xml 	 All-in-One	248
+Cloud Services		2	 ibm_all_in_one.xml 	 All-in-One	248
+Credentials		4	 ibm_all_in_one.xml 	 All-in-One	248
+Data Center	DC	2	 ibm_all_in_one.xml 	 All-in-One	248
+Dedicated Host		4	 ibm_all_in_one.xml 	 All-in-One	248
+Enterprise Network		2	 ibm_all_in_one.xml 	 All-in-One	248
+IBM Classic VLAN	VLAN	4	 ibm_all_in_one.xml 	 All-in-One	248
+IBM Cloud		2	 ibm_all_in_one.xml 	 All-in-One	248
+Identity and Access Management		4	 ibm_all_in_one.xml 	 All-in-One	248
+Instance Group		4	 ibm_all_in_one.xml 	 All-in-One	248
+Internet		4	 ibm_all_in_one.xml 	 All-in-One	248
+Internet Services	CIS	4	 ibm_all_in_one.xml 	 All-in-One	248
+Key Protect		4	 ibm_all_in_one.xml 	 All-in-One	248
+Kubernetes	IKS	4	 ibm_all_in_one.xml 	 All-in-One	248
+Microservices		4	 ibm_all_in_one.xml 	 All-in-One	248
+Network ACL		4	 ibm_all_in_one.xml 	 All-in-One	248
+Network ACL Rules		4	 ibm_all_in_one.xml 	 All-in-One	248
+Network Interface	Port	4	 ibm_all_in_one.xml 	 All-in-One	248
+Network Overlay		4	 ibm_all_in_one.xml 	 All-in-One	248
+OpenShift	OCP	4	 ibm_all_in_one.xml 	 All-in-One	248
+Physical Server		4	 ibm_all_in_one.xml 	 All-in-One	248
+Point of Presence	POP	2	 ibm_all_in_one.xml 	 All-in-One	248
+Power Virtual Server		4	 ibm_all_in_one.xml 	 All-in-One	248
+Power Workspace		2	 ibm_all_in_one.xml 	 All-in-One	248
+Process	WIP	4	 ibm_all_in_one.xml 	 All-in-One	248
+Public Network		4	 ibm_all_in_one.xml 	 All-in-One	248
+Region		2	 ibm_all_in_one.xml 	 All-in-One	248
+Resource Group	RG	2	 ibm_all_in_one.xml 	 All-in-One	248
+Secrets Manager	SM	4	 ibm_all_in_one.xml 	 All-in-One	248
+Security Group	SG	4	 ibm_all_in_one.xml 	 All-in-One	248
+Security Services		4	 ibm_all_in_one.xml 	 All-in-One	248
+Service ID		4	 ibm_all_in_one.xml 	 All-in-One	248
+Subnet		4	 ibm_all_in_one.xml 	 All-in-One	248
+Virtual Server Classic	VSI	2	 ibm_all_in_one.xml 	 All-in-One	248
+Virtual Server VPC		2	 ibm_all_in_one.xml 	 All-in-One	248
+VLAN		4	 ibm_all_in_one.xml 	 All-in-One	248
+VPC	Virtual Private Network	4	 ibm_all_in_one.xml 	 All-in-One	248
+VPC Endpoint		2	 ibm_all_in_one.xml 	 All-in-One	248
+VPN Connection		4	 ibm_all_in_one.xml 	 All-in-One	248
+VPN Policy		4	 ibm_all_in_one.xml 	 All-in-One	248
+Z Containers		2	 ibm_all_in_one.xml 	 All-in-One	248
+Zone	Data center	2	 ibm_all_in_one.xml 	 All-in-One	248
+Admin		2	 ibm_all_in_one.xml 	 All-in-One	248
+API		2	 ibm_all_in_one.xml 	 All-in-One	248
+Application		2	 ibm_all_in_one.xml 	 All-in-One	248
+Automation Script		2	 ibm_all_in_one.xml 	 All-in-One	248
+CLI Application		2	 ibm_all_in_one.xml 	 All-in-One	248
+Collaboration		2	 ibm_all_in_one.xml 	 All-in-One	248
+Devices		2	 ibm_all_in_one.xml 	 All-in-One	248
+Enterprise	Company	2	 ibm_all_in_one.xml 	 All-in-One	248
+Flag		2	 ibm_all_in_one.xml 	 All-in-One	248
+Group		2	 ibm_all_in_one.xml 	 All-in-One	248
+Laptop	Computer	2	 ibm_all_in_one.xml 	 All-in-One	248
+Location		2	 ibm_all_in_one.xml 	 All-in-One	248
+Meeting		2	 ibm_all_in_one.xml 	 All-in-One	248
+Microservices		4	 ibm_all_in_one.xml 	 All-in-One	248
+Mobile	Phone	2	 ibm_all_in_one.xml 	 All-in-One	248
+Mobile Application		2	 ibm_all_in_one.xml 	 All-in-One	248
+Service Desk		2	 ibm_all_in_one.xml 	 All-in-One	248
+Service ID		4	 ibm_all_in_one.xml 	 All-in-One	248
+Tablet		2	 ibm_all_in_one.xml 	 All-in-One	248
+User		2	 ibm_all_in_one.xml 	 All-in-One	248
+Virtual Application		2	 ibm_all_in_one.xml 	 All-in-One	248
+Web Application		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx AI		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx AI Governance Lifecycle		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Assistant		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Code Assistant		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Code Assistant for Z		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Code Assistant for Z Refactor		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Data		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Governance		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watson Discovery		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Governance Tracked		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Governance Untracked		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Machine Learning		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Launch AI		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Model Tuned		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Orchestrate		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Prompt Session		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watson Studio		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Prompt Template		2	 ibm_all_in_one.xml 	 All-in-One	248
+Watsonx Tuning		2	 ibm_all_in_one.xml 	 All-in-One	248
+Bare Metal Server	BM	4	 ibm_all_in_one.xml 	 All-in-One	248
+Bare Metal Server for VPC	BM	2	 ibm_all_in_one.xml 	 All-in-One	248
+Chip	CPU / GPU / Driver	4	 ibm_all_in_one.xml 	 All-in-One	248
+Dedicated Host		4	 ibm_all_in_one.xml 	 All-in-One	248
+Image Service		2	 ibm_all_in_one.xml 	 All-in-One	248
+Instance BX		2	 ibm_all_in_one.xml 	 All-in-One	248
+Instance CX		2	 ibm_all_in_one.xml 	 All-in-One	248
+Instance Group		4	 ibm_all_in_one.xml 	 All-in-One	248
+Instance MX		2	 ibm_all_in_one.xml 	 All-in-One	248
+Physical Server		4	 ibm_all_in_one.xml 	 All-in-One	248
+Power Virtual Server		4	 ibm_all_in_one.xml 	 All-in-One	248
+Process	WIP	4	 ibm_all_in_one.xml 	 All-in-One	248
+Satellite		2	 ibm_all_in_one.xml 	 All-in-One	248
+Satellite Config		2	 ibm_all_in_one.xml 	 All-in-One	248
+Virtual Server for Classic		2	 ibm_all_in_one.xml 	 All-in-One	248
+Virtual Server for VPC	VSI	2	 ibm_all_in_one.xml 	 All-in-One	248
+OpenShift	OCP	4	 ibm_all_in_one.xml 	 All-in-One	248
+Kubernetes	IKS	4	 ibm_all_in_one.xml 	 All-in-One	248
+Container Registry		2	 ibm_all_in_one.xml 	 All-in-One	248
+Z Container		2	 ibm_all_in_one.xml 	 All-in-One	248
+Blob		2	 ibm_all_in_one.xml 	 All-in-One	248
+Cloud Pak for Data		2	 ibm_all_in_one.xml 	 All-in-One	248
+Cloudant Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+Data Backup		2	 ibm_all_in_one.xml 	 All-in-One	248
+Data Stage		2	 ibm_all_in_one.xml 	 All-in-One	248
+Database	DB	2	 ibm_all_in_one.xml 	 All-in-One	248
+Database Messaging		2	 ibm_all_in_one.xml 	 All-in-One	248
+DataStax Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+DB2 Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+DB2 Warehouse		2	 ibm_all_in_one.xml 	 All-in-One	248
+EDB Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+Elasticseach Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+etcd Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+Event Streams		2	 ibm_all_in_one.xml 	 All-in-One	248
+Mongo Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+MySQL Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+PostgreSQL Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+Rabbit Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+Reddis Database		2	 ibm_all_in_one.xml 	 All-in-One	248
+Ansible		2	 ibm_all_in_one.xml 	 All-in-One	248
+Artifact Repo		2	 ibm_all_in_one.xml 	 All-in-One	248
+Build		2	 ibm_all_in_one.xml 	 All-in-One	248
+Cloud Pak for Integration		2	 ibm_all_in_one.xml 	 All-in-One	248
+Continuous Delivery		2	 ibm_all_in_one.xml 	 All-in-One	248
+Continuous Deployment		2	 ibm_all_in_one.xml 	 All-in-One	248
+Continuous Integration		2	 ibm_all_in_one.xml 	 All-in-One	248
+Gitlab		2	 ibm_all_in_one.xml 	 All-in-One	248
+IBM Cloud Schematics		2	 ibm_all_in_one.xml 	 All-in-One	248
+PreProd Environment		2	 ibm_all_in_one.xml 	 All-in-One	248
+Production Environment		2	 ibm_all_in_one.xml 	 All-in-One	248
+Production Regulated Env.		2	 ibm_all_in_one.xml 	 All-in-One	248
+Production Service		2	 ibm_all_in_one.xml 	 All-in-One	248
+Source Code Repo		2	 ibm_all_in_one.xml 	 All-in-One	248
+Test Service		2	 ibm_all_in_one.xml 	 All-in-One	248
+Testing		2	 ibm_all_in_one.xml 	 All-in-One	248
+Toolchain		2	 ibm_all_in_one.xml 	 All-in-One	248
+API Gateway		2	 ibm_all_in_one.xml 	 All-in-One	248
+Application Load Balancer	ALB	2	 ibm_all_in_one.xml 	 All-in-One	248
+Back-end L2 Switch		2	 ibm_all_in_one.xml 	 All-in-One	248
+Back-end Router		2	 ibm_all_in_one.xml 	 All-in-One	248
+CDN		2	 ibm_all_in_one.xml 	 All-in-One	248
+Classic Load Balancer		2	 ibm_all_in_one.xml 	 All-in-One	248
+Direct Link Connect		2	 ibm_all_in_one.xml 	 All-in-One	248
+Direct Link Dedicated		2	 ibm_all_in_one.xml 	 All-in-One	248
+DNS		2	 ibm_all_in_one.xml 	 All-in-One	248
+Edge Node		2	 ibm_all_in_one.xml 	 All-in-One	248
+Floating IP	FIP / VIP	2	 ibm_all_in_one.xml 	 All-in-One	248
+Gateway		2	 ibm_all_in_one.xml 	 All-in-One	248
+Global Load Balancer	GLB	2	 ibm_all_in_one.xml 	 All-in-One	248
+Hybrid Networking		2	 ibm_all_in_one.xml 	 All-in-One	248
+IBM Classic VLAN	VLAN	4	 ibm_all_in_one.xml 	 All-in-One	248
+Internet		4	 ibm_all_in_one.xml 	 All-in-One	248
+Internet Services	CIS	4	 ibm_all_in_one.xml 	 All-in-One	248
+L2 Switch		2	 ibm_all_in_one.xml 	 All-in-One	248
+L3 Switch	Multi-layer switch	2	 ibm_all_in_one.xml 	 All-in-One	248
+Load Balancer Listener		2	 ibm_all_in_one.xml 	 All-in-One	248
+Load Balancer Pool	LB Pool	2	 ibm_all_in_one.xml 	 All-in-One	248
+Local Load Balancer	LB	2	 ibm_all_in_one.xml 	 All-in-One	248
+LTE Transmission		2	 ibm_all_in_one.xml 	 All-in-One	248
+Mail Gateway		2	 ibm_all_in_one.xml 	 All-in-One	248
+Message Queue		2	 ibm_all_in_one.xml 	 All-in-One	248
+Network Interface	Port	4	 ibm_all_in_one.xml 	 All-in-One	248
+Network Load Balancer		2	 ibm_all_in_one.xml 	 All-in-One	248
+Network Overlay		4	 ibm_all_in_one.xml 	 All-in-One	248
+Proxy Server		2	 ibm_all_in_one.xml 	 All-in-One	248
+Public Network		4	 ibm_all_in_one.xml 	 All-in-One	248
+Public Gateway	PGW	2	 ibm_all_in_one.xml 	 All-in-One	248
+Router		2	 ibm_all_in_one.xml 	 All-in-One	248
+Subnet		4	 ibm_all_in_one.xml 	 All-in-One	248
+Transit Gateway		2	 ibm_all_in_one.xml 	 All-in-One	248
+VLAN		4	 ibm_all_in_one.xml 	 All-in-One	248
+Voice Router		2	 ibm_all_in_one.xml 	 All-in-One	248
+VPC	Virtual Private Network	4	 ibm_all_in_one.xml 	 All-in-One	248
+VPC Endpoints		2	 ibm_all_in_one.xml 	 All-in-One	248
+VPC Load Balancer		2	 ibm_all_in_one.xml 	 All-in-One	248
+Wifi Bridge		2	 ibm_all_in_one.xml 	 All-in-One	248
+Wifi Controller		2	 ibm_all_in_one.xml 	 All-in-One	248
+Wifi Router		2	 ibm_all_in_one.xml 	 All-in-One	248
+Alerting		2	 ibm_all_in_one.xml 	 All-in-One	248
+Auditing		2	 ibm_all_in_one.xml 	 All-in-One	248
+Flow Logs		2	 ibm_all_in_one.xml 	 All-in-One	248
+IBM Cloud Logs		2	 ibm_all_in_one.xml 	 All-in-One	248
+IBM Event Notifications		2	 ibm_all_in_one.xml 	 All-in-One	248
+GUI Management		2	 ibm_all_in_one.xml 	 All-in-One	248
+Logging		2	 ibm_all_in_one.xml 	 All-in-One	248
+Monitoring		2	 ibm_all_in_one.xml 	 All-in-One	248
+Service Management		2	 ibm_all_in_one.xml 	 All-in-One	248
+App ID		2	 ibm_all_in_one.xml 	 All-in-One	248
+Bastion Host		2	 ibm_all_in_one.xml 	 All-in-One	248
+Certificate		2	 ibm_all_in_one.xml 	 All-in-One	248
+Cloud Pak for Security		2	 ibm_all_in_one.xml 	 All-in-One	248
+Code Signing Service		2	 ibm_all_in_one.xml 	 All-in-One	248
+Compliance Center		2	 ibm_all_in_one.xml 	 All-in-One	248
+Credentials		4	 ibm_all_in_one.xml 	 All-in-One	248
+Data Diode		2	 ibm_all_in_one.xml 	 All-in-One	248
+Document Protected		2	 ibm_all_in_one.xml 	 All-in-One	248
+Document Security		2	 ibm_all_in_one.xml 	 All-in-One	248
+Document Signed		2	 ibm_all_in_one.xml 	 All-in-One	248
+Document Unprotected		2	 ibm_all_in_one.xml 	 All-in-One	248
+Encryption		2	 ibm_all_in_one.xml 	 All-in-One	248
+Fingerprint		2	 ibm_all_in_one.xml 	 All-in-One	248
+Firewall		2	 ibm_all_in_one.xml 	 All-in-One	248
+Hardware Security Module	HSM	2	 ibm_all_in_one.xml 	 All-in-One	248
+Identity and Access Management		4	 ibm_all_in_one.xml 	 All-in-One	248
+Intrusion Prevention-Detection		2	 ibm_all_in_one.xml 	 All-in-One	248
+Key		2	 ibm_all_in_one.xml 	 All-in-One	248
+Key Protect		4	 ibm_all_in_one.xml 	 All-in-One	248
+Network ACL		4	 ibm_all_in_one.xml 	 All-in-One	248
+Network ACL Rules		4	 ibm_all_in_one.xml 	 All-in-One	248
+Network Admin Control		2	 ibm_all_in_one.xml 	 All-in-One	248
+PCN E Node		2	 ibm_all_in_one.xml 	 All-in-One	248
+PCN P Node		2	 ibm_all_in_one.xml 	 All-in-One	248
+PCN ZNode		2	 ibm_all_in_one.xml 	 All-in-One	248
+Secrets Manager	SM	4	 ibm_all_in_one.xml 	 All-in-One	248
+Security Gateway		2	 ibm_all_in_one.xml 	 All-in-One	248
+Security Group	SG	4	 ibm_all_in_one.xml 	 All-in-One	248
+Security Services		4	 ibm_all_in_one.xml 	 All-in-One	248
+Session Boarder Control		2	 ibm_all_in_one.xml 	 All-in-One	248
+Security Group Rules		2	 ibm_all_in_one.xml 	 All-in-One	248
+Two Factor Authentication	2FA / MFA	2	 ibm_all_in_one.xml 	 All-in-One	248
+User Access Gateway		2	 ibm_all_in_one.xml 	 All-in-One	248
+VPN Connection		4	 ibm_all_in_one.xml 	 All-in-One	248
+VPN for VPC		2	 ibm_all_in_one.xml 	 All-in-One	248
+VPN Gateway		2	 ibm_all_in_one.xml 	 All-in-One	248
+VPN Policy		4	 ibm_all_in_one.xml 	 All-in-One	248
+Wifi Secured		2	 ibm_all_in_one.xml 	 All-in-One	248
+Wifi Unsecured		2	 ibm_all_in_one.xml 	 All-in-One	248
+Archive		2	 ibm_all_in_one.xml 	 All-in-One	248
+Block Storage Application		2	 ibm_all_in_one.xml 	 All-in-One	248
+Block Volume		2	 ibm_all_in_one.xml 	 All-in-One	248
+Data Store		2	 ibm_all_in_one.xml 	 All-in-One	248
+File Storage Application		2	 ibm_all_in_one.xml 	 All-in-One	248
+File System		2	 ibm_all_in_one.xml 	 All-in-One	248
+Object Bucket		2	 ibm_all_in_one.xml 	 All-in-One	248
+Object Storage Accessor		2	 ibm_all_in_one.xml 	 All-in-One	248
+Object Storage Slicestor		2	 ibm_all_in_one.xml 	 All-in-One	248
+Object Storage Application	COS	2	 ibm_all_in_one.xml 	 All-in-One	248
+Access Group	AG	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Account Group		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Authorization Boundary		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Bare Metal Server	BM	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Bare Metal for VPC		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Chip	CPU / GPU / Driver	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Classic Infrastructure		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Cloud		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Cloud Services		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Credentials		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Data Center	DC	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Dedicated Host		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Enterprise Network		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+IBM Classic VLAN	VLAN	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+IBM Cloud		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Identity and Access Management		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Instance Group		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Internet		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Internet Services	CIS	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Key Protect		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Kubernetes	IKS	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Microservices		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Network ACL		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Network ACL Rules		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Network Interface	Port	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Network Overlay		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+OpenShift	OCP	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Physical Server		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Point of Presence	POP	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Power Virtual Server		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Power Workspace		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Process	WIP	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Public Network		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Region		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Resource Group	RG	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Secrets Manager	SM	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Security Group	SG	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Security Services		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Service ID		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Subnet		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Virtual Server Classic	VSI	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Virtual Server VPC		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+VLAN		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+VPC	Virtual Private Network	4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+VPC Endpoint		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+VPN Connection		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+VPN Policy		4	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Z Containers		2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Zone	Data center	2	 ibm_cloud_groups.xml 	 IBM Cloud / Groups	49
+Admin		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+API		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Application		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Automation Script		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+CLI Application		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Collaboration		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Devices		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Enterprise	Company	2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Flag		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Group		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Laptop	Computer	2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Location		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Meeting		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Microservices		4	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Mobile	Phone	2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Mobile Application		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Service Desk		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Service ID		4	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Tablet		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+User		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Virtual Application		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Web Application		2	 ibm_cloud_actors.xml 	 IBM Cloud / Actors	22
+Watsonx		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx AI		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx AI Governance Lifecycle		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Assistant		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Code Assistant		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Code Assistant for Z		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Code Assistant for Z Refactor		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Data		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Governance		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watson Discovery		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Governance Tracked		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Governance Untracked		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Machine Learning		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Launch AI		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Model Tuned		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Orchestrate		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Prompt Session		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watson Studio		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Prompt Template		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Watsonx Tuning		2	 ibm_cloud_ai.xml 	 IBM Cloud / Ai	20
+Bare Metal Server	BM	4	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Bare Metal Server for VPC	BM	2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Chip	CPU / GPU / Driver	4	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Dedicated Host		4	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Image Service		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Instance BX		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Instance CX		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Instance Group		4	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Instance MX		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Physical Server		4	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Power Virtual Server		4	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Process	WIP	4	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Satellite		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Satellite Config		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Virtual Server for Classic		2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+Virtual Server for VPC	VSI	2	 ibm_cloud_compute.xml 	 IBM Cloud / Compute	16
+OpenShift	OCP	4	 ibm_cloud_containers.xml 	 IBM Cloud / Containers	4
+Kubernetes	IKS	4	 ibm_cloud_containers.xml 	 IBM Cloud / Containers	4
+Container Registry		2	 ibm_cloud_containers.xml 	 IBM Cloud / Containers	4
+Z Container		2	 ibm_cloud_containers.xml 	 IBM Cloud / Containers	4
+Blob		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Cloud Pak for Data		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Cloudant Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Data Backup		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Data Stage		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Database	DB	2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Database Messaging		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+DataStax Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+DB2 Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+DB2 Warehouse		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+EDB Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Elasticseach Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+etcd Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Event Streams		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Mongo Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+MySQL Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+PostgreSQL Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Rabbit Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Reddis Database		2	 ibm_cloud_data.xml 	 IBM Cloud / Data	19
+Ansible		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Artifact Repo		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Build		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Cloud Pak for Integration		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Continuous Delivery		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Continuous Deployment		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Continuous Integration		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Gitlab		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+IBM Cloud Schematics		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+PreProd Environment		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Production Environment		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Production Regulated Env.		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Production Service		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Source Code Repo		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Test Service		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Testing		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+Toolchain		2	 ibm_cloud_devops.xml 	 IBM Cloud / Devops	17
+API Gateway		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Application Load Balancer	ALB	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Back-end L2 Switch		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Back-end Router		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+CDN		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Classic Load Balancer		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Direct Link Connect		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Direct Link Dedicated		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+DNS		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Edge Node		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Floating IP	FIP / VIP	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Gateway		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Global Load Balancer	GLB	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Hybrid Networking		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+IBM Classic VLAN	VLAN	4	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Internet		4	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Internet Services	CIS	4	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+L2 Switch		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+L3 Switch	Multi-layer switch	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Load Balancer Listener		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Load Balancer Pool	LB Pool	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Local Load Balancer	LB	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+LTE Transmission		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Mail Gateway		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Message Queue		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Network Interface	Port	4	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Network Load Balancer		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Network Overlay		4	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Proxy Server		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Public Network		4	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Public Gateway	PGW	2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Router		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Subnet		4	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Transit Gateway		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+VLAN		4	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Voice Router		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+VPC	Virtual Private Network	4	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+VPC Endpoints		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+VPC Load Balancer		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Wifi Bridge		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Wifi Controller		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Wifi Router		2	 ibm_cloud_network.xml 	 IBM Cloud / Network	42
+Alerting		2	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	9
+Auditing		2	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	9
+Flow Logs		2	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	9
+IBM Cloud Logs		2	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	9
+IBM Event Notifications		2	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	9
+GUI Management		2	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	9
+Logging		2	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	9
+Monitoring		2	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	9
+Service Management		2	 ibm_cloud_observability.xml 	 IBM Cloud / Observability	9
+App ID		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Bastion Host		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Certificate		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Cloud Pak for Security		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Code Signing Service		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Compliance Center		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Credentials		4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Data Diode		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Document Protected		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Document Security		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Document Signed		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Document Unprotected		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Encryption		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Fingerprint		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Firewall		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Hardware Security Module	HSM	2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Identity and Access Management		4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Intrusion Prevention-Detection		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Key		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Key Protect		4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Network ACL		4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Network ACL Rules		4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Network Admin Control		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+PCN E Node		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+PCN P Node		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+PCN ZNode		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Secrets Manager	SM	4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Security Gateway		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Security Group	SG	4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Security Services		4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Session Boarder Control		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Security Group Rules		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Two Factor Authentication	2FA / MFA	2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+User Access Gateway		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+VPN Connection		4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+VPN for VPC		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+VPN Gateway		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+VPN Policy		4	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Wifi Secured		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Wifi Unsecured		2	 ibm_cloud_security.xml 	 IBM Cloud / Security	40
+Archive		2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+Block Storage Application		2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+Block Volume		2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+Data Store		2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+File Storage Application		2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+File System		2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+Object Bucket		2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+Object Storage Accessor		2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+Object Storage Slicestor		2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
+Object Storage Application	COS	2	 ibm_cloud_storage.xml 	 IBM Cloud / Storage	10
