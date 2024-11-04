@@ -86,7 +86,7 @@ To get IBM Cloud architecture stencils and start sketching diagrams with draw.io
 
    </details>
 
-#### 4. f you are creating any custom color shapes or patterns, please follow guidance in [Colors section](#colors).
+#### 4. f you are creating any custom color shapes or patterns, please follow guidance in [Colors section](#tools--conventions).
 
 #### 5. Add [legend and annotations (if applicable)](#legend--annotations) to diagram. There is a legends helper library available with that name and also one included in the all-in-one file/library.
 
@@ -455,7 +455,7 @@ Nested container groups should alternate between white and light fill for access
 
 ![](images/ColorCodes.png)
 
-If additional colors (not used in [connectors](#connectors) or the above screenshot) are needed for customizing connector lines, adding non-standard background to boxes/groups and/or adding color to shapes outside the libraries, make sure to use the pre-approved colors listed [here](https://www.ibm.com/design/language/color/#specifications)
+If additional colors (not used in [connectors](/drawio/stencils/2.0/Connectors.drawio) or the above screenshot) are needed for customizing connector lines, adding non-standard background to boxes/groups and/or adding color to shapes outside the libraries, make sure to use the pre-approved colors listed [here](https://www.ibm.com/design/language/color/#specifications)
 
 <details><summary>Connectors</summary>
 <p>
