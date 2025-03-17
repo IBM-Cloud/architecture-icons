@@ -16,82 +16,120 @@ To get IBM Cloud architecture stencils and start sketching diagrams with draw.io
 
 #### 1. Download desktop draw.io application in the [jgraph drawio official repo](https://github.com/jgraph/drawio-desktop/releases).
 
-#### 2. Select one of the following to get stencils:
+> [!IMPORTANT]  
+> Make sure to get [release v25.0.2](https://github.com/jgraph/drawio-desktop/releases/tag/v25.0.2) or higher.
 
-  <details><summary>Saving All-in-one in computer - Github not required</summary>
+
+#### 2. To get IBM Cloud stencils do the following:
+
+See [inventory](drawio/stencils/2.0/Index.tsv) for an index of which stencils are in what category/file/location.
+
+1. <details><summary>Enable stencils published in drawio</summary>
+
+   1. Open draw.io desktop application.
+   2. In the bottom left-hand menu, hit `+ More Shapes` and navigate to the `Networking`section and check `IBM Cloud`, click the `Apply` button.
+
+</details>
+
+
+2. <details><summary>Import stencils not published/released in drawio</summary>
+
+   Select one of the following options to import shapes not published/available in drawio (step 1 above):
+
+     <details><summary>Saving file in computer - Github not required</summary>
    
-  1. Go to the all-in-one online file by clicking [here](https://github.com/IBM-Cloud/architecture-icons/blob/main/drawio/stencils/2.0/ibm_all_in_one.xml)
+     1. Go to the `not_released_in_drawio.xml` online file by clicking [here](https://github.com//IBM-Cloud/architecture-icons/blob/master/drawio/stencils/2.0/not_released_in_drawio.xml)
   
-  2. Hit the `Raw` button
-  ![](./images/raw_button.png)
-  1. Save file by right-clicking and selecting `Save Page As`
-  2. Select a directory to save file.
-  3. Open draw.io desktop application.
-  4. In the upper left-hand menu, go to `File > Open Library`   and navigate to the folder where you previously saved the All-in-one xml file in your computer, hit `Open`.
-  5. Go to [Step 3](#3-sketch-diagram-using-the-imported-stencil-libraries-in-the-left-hand-size-of-the-drawio-desktop-app-ui-all-in-one-and-standalone-xmls-include)
+     2. Hit the `Raw` button
+     ![](./images/raw_button.png)
+     3. Save file by right-clicking and selecting `Save Page As`
+     4. Select a directory to save file.
+     5. Open draw.io desktop application.
+     4   . In the upper left-hand menu, go to `File > Open Library`   and navigate to the folder where you previously saved the not_released_in_drawio.xml file in your computer, hit `Open`.
+     6. Go to [Step 3](#3-sketch-diagram-using-the-stencil-libraries-in-the-left-hand-size-of-the-drawio-desktop-app-ui)
   
-  </details>
+     </details>
 
-  <details><summary>Using Github Repo Clone</summary>
+     <details><summary>Using Github Repo Clone</summary>
 
-  [Clone](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step) this [repo](https://github.com/IBM-Cloud/architecture-icons) and use one of the following options:
+     [Clone](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step) this [repo](https://github.ibm.com/ibmcloud/ibm-cloud-stencils) and use one of the following options:
 
-   - ##### a. If starting a diagram from scratch:
+      ##### a. If starting a diagram from scratch:
   
      <details><summary>Click here</summary>
 
-       1. Open draw.io desktop application.
-       2. In the upper left-hand menu, go to `File > Open Library`   and navigate to the [drawio/stencils/2.0 folder](/drawio/stencils/2.0) in your clone. 
-       3. Select either the All-in-one library ([`ibm_all_in_one.xml`](/drawio/stencils/2.0/ibm_all_in_one.xml)) or any of the xml library(ies) of your choice (compute, data, network, etc.).
-       4. Go to [Step 3](#3-sketch-diagram-using-the-imported-stencil-libraries-in-the-left-hand-size-of-the-drawio-desktop-app-ui-all-in-one-and-standalone-xmls-include)
+      7. Open draw.io desktop application.
+      8. In the upper left-hand menu, go to `File > Open Library`   and navigate to the [drawio/stencils/2.0 folder](/drawio/stencils/2.0) in your clone. 
+      9. Select the IBM Not Released In Drawio library ([`not_released_in_drawio.xml`](/drawio/stencils/2.0/not_released_in_drawio.xml)).
+      10. Go to [Step 3](#3-sketch-diagram-using-the-stencil-libraries-in-the-left-hand-size-of-the-drawio-desktop-app-ui-not_released_in_drawioxml-and-drawio-enabledembedded-libraries-include-the-following-shape-types)
    
-        For detailed import instructions watch this video [tutorial](https://cloud.ibm.com/docs/architecture-framework?topic=architecture-framework-architecture-diagram) or follow the [step-by-step tutorial/guide](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step).
+      - For detailed import instructions watch this video [tutorial](#drawio---enabling--importing-stencil-libraries-into-drawio-desktop-tool-video) or follow the [step-by-step tutorial/guide](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/tree/master#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step).
 
        
 
      </details>
 
-   - ##### b. If already have stencils and starting from an existing diagram template:
+     ##### b. If already have stencils and want to use an existing diagram template:
   
      <details><summary>Click here</summary>
 
-       1. Open the stencils repo clone folder.
-       2. Go to [drawio/templates/2.0](/drawio/templates/2.0) folder and open/double-click any of the template files.
+      1. Open the stencils repo clone folder.
+      2. Go to [drawio/templates/2.0](/drawio/templates/2.0) folder and open/double-click any of the template files.
 
      </details>
 
-  </details>
+    </details>
 
-#### 3. Sketch diagram using the imported stencil libraries in the left-hand size of the drawio desktop app UI. All-in-one and standalone xmls include:
-   - Stencils (actors, nodes, groups/boxes)
-   - Connectors
-   - UML
-   - Legends
-   - Sequence numbers
+<details><summary>Click to see successful import example</summary>
 
-<details><summary>Click to see see library breakdown</summary>
-
-|          **Library Type**          |                                                         All-in-one                                                         |                            Standalone                           |
-|:----------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------:|
-| **Library (draw.io) display name** |                                                    `vX.Y.Z IBM All-In-One`                                                   | `vX.Y.Z IBM [brand/name] [category/name]` |
-|        **Library file name**       |                                                     `ibm_all_in_one.xml`                                                     |  `ibm_[brand/name]_[category/name].xml` |
-|             **Example**            |                                                    `v2.1.1 IBM All-In-One`                                                   |                    `v2.1.1 IBM Cloud / Compute`                   |
-|     **Sorting (top to bottom)**    | - Groups > A to Z <br> - Actors > A to Z <br> - Nodes > A to Z per category/color (e.g., compute, network, data)<br> - Connectors > Arbitrary <br> - Others > Arbitrary |                              A to Z                             |
+![](images/ImportedLibraries.png)
 
 </details>
 
-   <details><summary>Click to see import example</summary>
+</details>
 
-   ![](images/ImportedLibraries.png)
+<details><summary>Click to see library breakdown</summary>
 
-   </details>
+|               Library Type              |                                                     Complimentary (Not released/published in Draw.io but available in this repo.)                                                    |     Standalone (Released in Desktop Drawio v25.0.2+)     |
+|:---------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------:|
+|      Library (draw.io) display name     |                                                             vX.Y.Z IBM Not Released In Drawio                                                            |           IBM / [category/name]          |
+| Library (draw.io) display name examples |                                                             v3.0.0+ IBM Not Released In Drawio                                                            | IBM / Compute, IBM / Data, IBM / Network |
+|            Library file name            |                                                                not_released_in_drawio.xml                                                                |                    NA                    |
+|         Sorting (top to bottom)         | - Groups > A to Z  <br/>- Actors > A to Z  -<br/> - Nodes > A to Z per category/color (e.g., compute, network, data)  <br/>- Connectors > Arbitrary  <br/>- Others > Arbitrary |                  A to Z                  |
+|                                         |                                                                                                                                                          |                                          |
+
+</details>
+
+#### 3. Sketch diagram using the stencil libraries in the left-hand size of the drawio desktop app UI. 
+
+<details><summary>Click here for more details</summary>
+not_released_in_drawio.xml and drawio enabled/embedded libraries include the following shape types, please see the below table for guidance
+
+|                                                           Stencil Type                                                           |                                                  Availability                                                  |             Usage Preference/Priority             |
+|:--------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------:|
+| - Nodes (AI, compute, data, devops, network, observability, security and storage) <br/> - Actors <br/>- Groups (for all of the above types) |            - Drawio v25.0.2+ <br/>- Internal Stencils Repo. v3.0.0+ (in not_released_in_drawio.xml file)            | 1. Drawio <br/> 2. Internal Stencils Repo. (only if needed) |
+|  - Connectors <br/> - UML <br/> - Legend helpers  <br/> - sequence numbers                                       | - Drawio v25.0.2+ (partially available) <br/>- Internal Stencils Repo. v3.0.0+ (in not_released_in_drawio.xml file) |              1. Internal Stencils Repo.  <br/> 2.  Drawio v25.0.2+ (make sure to read and follow [connector conventions](#connectors))           |
+
+</details>
 
 #### 4. f you are creating any custom color shapes or patterns, please follow guidance in [Colors section](#tools--conventions).
 
-#### 5. Add [legend and annotations (if applicable)](#legend--annotations) to diagram. There is a legends helper library available with that name and also one included in the all-in-one file/library.
+#### 5. Add [legend and annotations (if applicable)](#legend--annotations) to diagram. There is a legends helper library available with that name and also one included in the IBM Not Released file/library ([`not_released_in_drawio.xml`](/drawio/stencils/2.0/not_released_in_drawio.xml)).
 
-#### 6. Once diagram is ready,  export using the desired picture format (SVG is recommended).
+#### 6. Once diagram is ready, add [metadata](#metadata) to it, save the changes and export using SVG (recommended format). 
 
+
+<details><summary>Click here for additional guidance</summary>
+
+- Go to **File** > **Export as** > **SVG...**
+    - Select `Page` under **Size**.
+    - Select **Embed images**, **Embed fonts**, and **Open in a New Window**.
+    - Make sure that **Transparent background** is not selected. (And that you set the [background color](https://www.drawio.com/doc/faq/background-colour))
+    - Set **Appearance** to `Light`.
+    - To make the SVG editable in drawio application, make sure that `Include a copy of my diagram` is selected.
+    - Keep the other default settings.
+
+</details>
 
 ## Drawio (xml & drawio)
 
@@ -108,14 +146,18 @@ Go to the [jgraph drawio repo site](https://github.com/jgraph/drawio-desktop/rel
 
 #### Stencil Index/Inventory
 
-Several xml files are provided with groups of stencils, however, for convenience, an All-In-One xml (`ibm_all_in_one.xml`) file containing all shapes across categories is also provided and kept up to date under [drawio/stencils/2.0](/drawio/stencils/2.0).
+For convenience, an IBM Not Released xml (`not_released_in_drawio.xml`) file containing all shapes not available in drawio is provided and kept up to date under [drawio/stencils/2.0](/drawio/stencils/2.0). See table in [point 3](#3-sketch-diagram-using-the-stencil-libraries-in-the-left-hand-size-of-the-drawio-desktop-app-ui) of quick start guide.
+
 
 [Click here to open](drawio/stencils/2.0/Index.tsv)
 
 
+
 ### Getting stencil libraries compatible with draw.io application
 
-If you need to use 2.0 shapes compatible/importable with/in desktop drawio application, a static version of the stencils has been made available under [drawio/stencils/2.0](/drawio/stencils/2.0) in this repository. To import the libraries (.xmls), follow the instructions in the [below tutorial](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step) or watch this [video tutorial](https://cloud.ibm.com/docs/architecture-framework?topic=architecture-framework-architecture-diagram). Please keep in mind that when the libraries get updated (new, changed and deleted stencils) or new libraries get added/deleted, a [release](https://github.com/IBM-Cloud/architecture-icons/releases) will be published in the repo.
+To import the library (.xml), follow the instructions in the [import guide](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step).
+
+Please keep in mind that when the libraries get updated (new, changed and deleted stencils) or new libraries get added/deleted, a [release](https://github.com/IBM-Cloud/architecture-icons/releases) will be published in the repo.
 
 
 ### 2.0 Examples
@@ -150,6 +192,9 @@ Find latest templates in [drawio/templates/2.0](/drawio/templates/2.0).
 
 <details><summary>click here to expand</summary>
 
+> [!WARNING]  
+> Stencils color/style/sizing need to be updated to fetch latest updates/additions/standards
+
 ### Getting ppt instructions file and icons
 
 Please find the `IBM_IT Architecture diagrams kit_External` file under [ppt](./ppt/) folder. For video tutorial with demo see [video tutorial](#creating-icons-in-ppt) below.
@@ -169,6 +214,9 @@ https://github.com/IBM-Cloud/architecture-icons/assets/51208928/94b6be7a-b9d4-49
 ### Scalable Vector Graphics (svg)
 
 <details><summary>click here to expand</summary>
+
+> [!WARNING]  
+> Stencils color/style/sizing need to be updated to fetch latest updates/additions/standards
 
 ### Getting svg icons/files
 
