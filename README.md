@@ -163,8 +163,9 @@ Please keep in mind that when the libraries get updated (new, changed and delete
 
 <details><summary>Click here for expand</summary>
 
-> [!IMPORTANT]  
-> Examples in this section are in the process to get updated to latest release/conventions.
+> **WARNING**
+Examples in this section are in the process to get updated to latest release/conventions.
+
 <details><summary>IBM Kubernetes Service in a Classic Single-Region Multi-Zone environment using 2.0 stencils and latest connector standards</summary>
 
   ![](images/2.0/Static/IKS_SR_MZ_Classic.svg)
@@ -195,10 +196,11 @@ Find latest templates in [drawio/templates/2.0](/drawio/templates/2.0).
 
 ## PowerPoint (ppt)
 
+
 <details><summary>click here to expand</summary>
 
-> [!WARNING]  
-> Stencils color/style/sizing need to be updated to fetch latest updates/additions/standards
+> **WARNING**
+Stencils in this format are in the process to get updated to latest release/conventions.
 
 ### Getting ppt instructions file and icons
 
@@ -220,6 +222,8 @@ https://github.com/IBM-Cloud/architecture-icons/assets/51208928/94b6be7a-b9d4-49
 
 <details><summary>click here to expand</summary>
 
+> **WARNING**
+Stencils in this format are in the process to get updated to latest release/conventions.
 
 
 ### Getting svg icons/files
