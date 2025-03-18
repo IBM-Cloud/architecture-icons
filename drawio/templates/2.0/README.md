@@ -1,3 +1,6 @@
 # 2.0 Templates
 
-If you are looking to get 2.0 templates compatible with [native desktop draw.io tool](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/tree/master#compatible-with-drawio-application) select the ["Using Static - compatible with drawio tool"](/drawio/templates/v2.0/Using%20Static%20-%20compatible%20with%20drawio%20tool) folder. Otherwise, if you using the [custom tool/build](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/tree/master#temporary-custom-build), select ["Using Build"](/drawio/templates/v2.0/Using%20Build) folder.
+To get 2.0 templates compatible with [native desktop draw.io tool](../../../README.md#drawio-xml--drawio) go to this [folder](../2.0/) folder.
+
+> [!IMPORTANT]  
+> Templates in this folder are in the process to get updated to latest release/conventions.

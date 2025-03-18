@@ -161,6 +161,10 @@ Please keep in mind that when the libraries get updated (new, changed and delete
 
 ### 2.0 Examples
 
+<details><summary>Click here for expand</summary>
+
+> [!IMPORTANT]  
+> Examples in this section are in the process to get updated to latest release/conventions.
 <details><summary>IBM Kubernetes Service in a Classic Single-Region Multi-Zone environment using 2.0 stencils and latest connector standards</summary>
 
   ![](images/2.0/Static/IKS_SR_MZ_Classic.svg)
@@ -179,6 +183,8 @@ Please keep in mind that when the libraries get updated (new, changed and delete
 <details><summary>IBM Red Hat OpenShift Service in a VPC Single-Region Multi-Zone environment using 2.0 stencils and latest connector standards</summary>
 
   ![](images/2.0/Static/ROKS_SR_MZ_VPC.svg)
+</details>
+
 </details>
 
 ### 2.0 Templates
