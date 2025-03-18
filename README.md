@@ -52,7 +52,7 @@ See [inventory](drawio/stencils/2.0/Index.tsv) for an index of which stencils ar
 
      <details><summary>Using Github Repo Clone</summary>
 
-     [Clone](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step) this [repo](https://github.ibm.com/ibmcloud/ibm-cloud-stencils) and use one of the following options:
+     [Clone](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step) this [repo](https://github.com/IBM-Cloud/architecture-icons) and use one of the following options:
 
       ##### a. If starting a diagram from scratch:
   
@@ -63,10 +63,9 @@ See [inventory](drawio/stencils/2.0/Index.tsv) for an index of which stencils ar
       9. Select the IBM Not Released In Drawio library ([`not_released_in_drawio.xml`](/drawio/stencils/2.0/not_released_in_drawio.xml)).
       10. Go to [Step 3](#3-sketch-diagram-using-the-stencil-libraries-in-the-left-hand-size-of-the-drawio-desktop-app-ui-not_released_in_drawioxml-and-drawio-enabledembedded-libraries-include-the-following-shape-types)
    
-      - For detailed import instructions watch this video [tutorial](#drawio---enabling--importing-stencil-libraries-into-drawio-desktop-tool-video) or follow the [step-by-step tutorial/guide](https://github.ibm.com/ibmcloud/ibm-cloud-stencils/tree/master#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step).
+      - For detailed import instructions follow the [step-by-step tutorial/guide](#drawio---importing-stencil-libraries-into-drawio-desktop-tool-step-by-step).
 
-       
-
+      
      </details>
 
      ##### b. If already have stencils and want to use an existing diagram template:
@@ -215,8 +214,7 @@ https://github.com/IBM-Cloud/architecture-icons/assets/51208928/94b6be7a-b9d4-49
 
 <details><summary>click here to expand</summary>
 
-> [!WARNING]  
-> Stencils color/style/sizing need to be updated to fetch latest updates/additions/standards
+
 
 ### Getting svg icons/files
 
